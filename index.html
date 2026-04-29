@@ -901,17 +901,158 @@
 
 </section>
 
-    <section class="featured-products-section" id="featured-products" data-zappy-dynamic="true">
-      <div class="container">
-        <h2 class="section-title">מוצרים מומלצים</h2>
-        <div class="product-grid featured-grid" id="zappy-featured-products">
-          <div class="loading-products">טוען מוצרים...</div>
+    <section class="index-showcase-section" data-layout-spec="בית-showcase" dir="rtl" data-zappy-section="true" id="featured-products">
+
+  <!-- Decorative botanical SVG top-right -->
+  <svg class="isc-deco isc-deco--branch" aria-hidden="true" data-no-icon-edit="true" viewBox="0 0 200 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M160,10 C140,40 100,50 80,90 C60,130 70,160 50,170" stroke="#D4A843" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.35"></path>
+    <circle cx="75" cy="60" r="5" fill="#D4A843" opacity="0.3"></circle>
+    <circle cx="90" cy="80" r="3.5" fill="#D4A843" opacity="0.25"></circle>
+    <path d="M80,90 C65,75 55,80 45,70" stroke="#D4A843" stroke-width="1.2" stroke-linecap="round" fill="none" opacity="0.3"></path>
+    <path d="M100,115 C85,100 75,105 65,95" stroke="#D4A843" stroke-width="1.2" stroke-linecap="round" fill="none" opacity="0.25"></path>
+    <ellipse cx="55" cy="68" rx="8" ry="5" fill="#2D7A3A" opacity="0.25" transform="rotate(-30 55 68)"></ellipse>
+    <ellipse cx="68" cy="92" rx="7" ry="4" fill="#2D7A3A" opacity="0.2" transform="rotate(-20 68 92)"></ellipse>
+    <ellipse cx="62" cy="110" rx="6" ry="3.5" fill="#2D7A3A" opacity="0.2" transform="rotate(-40 62 110)"></ellipse>
+    <circle cx="48" cy="72" r="3" fill="#C8192A" opacity="0.3"></circle>
+    <circle cx="66" cy="95" r="2.5" fill="#C8192A" opacity="0.25"></circle>
+  </svg>
+
+  <!-- Decorative mushroom SVG bottom-left -->
+  <svg class="isc-deco isc-deco--mushroom" aria-hidden="true" data-no-icon-edit="true" viewBox="0 0 120 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <ellipse cx="60" cy="55" rx="40" ry="25" fill="#C8192A" opacity="0.12"></ellipse>
+    <rect x="52" y="55" width="16" height="30" rx="4" fill="#C8192A" opacity="0.08"></rect>
+    <circle cx="48" cy="48" r="4" fill="#FDF6EC" opacity="0.12"></circle>
+    <circle cx="65" cy="42" r="3" fill="#FDF6EC" opacity="0.1"></circle>
+    <circle cx="72" cy="52" r="2.5" fill="#FDF6EC" opacity="0.1"></circle>
+  </svg>
+
+  <div class="isc-container">
+
+    <!-- Section Header -->
+    <header class="isc-header">
+      <span class="isc-eyebrow">הקולקציה שלנו</span>
+      <h2 class="isc-title">תכשיטים בהשראת הטבע —<br>ים ויער</h2>
+      <p class="isc-intro">כל תכשיט הוא פרק בסיפור של טבע חי. אנו שואבים השראה מרקמות הים, מצורות היער, ומהפרטים הקטנים שרק אמן מיומן יכול להעניק לחומר. תכשיטים אורגניים לאישה שמחפשת יופי אמיתי.</p>
+    </header>
+
+    <!-- Main Showcase Grid -->
+    <div class="isc-grid">
+
+      <!-- Large Feature Card -->
+      <article class="isc-card isc-card--feature">
+        <div class="isc-card__image-wrap">
+          <img alt="קסם תכשיט ידני בהשראת יער" class="isc-card__img" src="/assets/site-index-showcase-image-3.webp" data-placeholder="index-showcase-image-3" data-context="Close-up of a handcrafted jewelry charm, small mushroom and leaf motif in gold and coral enamel, resting on aged linen fabric, warm candlelit editorial photography, macro detail" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+          <div class="isc-card__img-overlay"></div>
+          <span class="isc-card__badge">מהדורה מוגבלת</span>
         </div>
-        <div class="view-all-products">
-          <a href="/products" class="btn btn-primary">צפה בכל המוצרים →</a>
+        <div class="isc-card__body">
+          <h3 class="isc-card__title">פרט אספני</h3>
+          <p class="isc-card__text">כל יצירה היא מהדורה מוגבלת. גימורים מוחשיים, אבזמים מלוטשים, וקסמים ייחודיים הופכים כל תכשיט לאובייקט אמנות.</p>
+          <div class="isc-card__tag-row">
+            <span class="isc-tag isc-tag--gold">זהב</span>
+            <span class="isc-tag isc-tag--red">פטריות</span>
+            <span class="isc-tag isc-tag--green">יער</span>
+          </div>
+        </div>
+      </article>
+
+      <!-- Right column: two stacked cards -->
+      <div class="isc-col-stack">
+
+        <!-- Sea Card -->
+        <article class="isc-card isc-card--sea">
+          <div class="isc-card__image-wrap isc-card__image-wrap--sm">
+            <img alt="צמיד חרוזים בהשראת הים" class="isc-card__img" src="/assets/site-index-showcase-image-1-1777464587404-pwdi01.webp?v=1777464587404" data-placeholder="index-showcase-image-1" data-context="Extreme close-up of artisan beaded jewelry bracelet with ocean-inspired sea glass beads and polished gold clasp, laid on dark charcoal textured surface, dramatic editorial lighting, macro photography for luxury jewelry brand" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+            <div class="isc-card__img-overlay isc-card__img-overlay--sea"></div>
+          </div>
+          <div class="isc-card__body">
+            <h3 class="isc-card__title">רקמות הים</h3>
+            <p class="isc-card__text">חרוזים מלוטשים, קונכיות שנאספו ביד, וזכוכית ים שנשחקה לאורך שנים — כל חומר מספר את שפת האוקיינוס.</p>
+          </div>
+        </article>
+
+        <!-- Forest Card -->
+        <article class="isc-card isc-card--forest">
+          <div class="isc-card__image-wrap isc-card__image-wrap--sm">
+            <img alt="תכשיטי יוקרה ידידותיים לסביבה בהשראת יער" class="isc-card__img" src="/assets/site-index-showcase-image-2.webp" data-placeholder="index-showcase-image-2" data-context="Overhead flat lay of handmade nature-inspired jewelry pieces including leaf pendant necklace and forest mushroom earrings in gold and deep red, arranged on warm cream linen with tropical botanical leaves as props, editorial jewelry photography" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+            <div class="isc-card__img-overlay isc-card__img-overlay--forest"></div>
+          </div>
+          <div class="isc-card__body">
+            <h3 class="isc-card__title">צורות היער</h3>
+            <p class="isc-card__text">עלים, פטריות, ענפים מפותלים — מוטיבים מהיער הטרופי מוצקים בזהב ובנחושת בטכניקות אמנות ידנית.</p>
+          </div>
+        </article>
+
+      </div>
+    </div>
+
+    <!-- Feature List Strip -->
+    <div class="isc-strip">
+      <div class="isc-strip__item">
+        <div class="isc-strip__icon" aria-hidden="true">
+          <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" width="28" height="28">
+            <path d="M16 4 C10 4 4 10 4 16 C4 22 8 28 16 28 C24 28 28 22 28 16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path>
+            <path d="M22 6 Q26 8 28 12" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path>
+            <circle cx="16" cy="16" r="3" fill="currentColor" opacity="0.5"></circle>
+          </svg>
+        </div>
+        <div class="isc-strip__content">
+          <strong class="isc-strip__label">רקמות הים</strong>
+          <span class="isc-strip__desc">חרוזים מלוטשים, קונכיות שנאספו ביד, וזכוכית ים שנשחקה לאורך שנים — כל חומר מספר את שפת האוקיינוס.</span>
         </div>
       </div>
-    </section>
+
+      <div class="isc-strip__divider" aria-hidden="true"></div>
+
+      <div class="isc-strip__item">
+        <div class="isc-strip__icon" aria-hidden="true">
+          <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" width="28" height="28">
+            <path d="M16 28 C16 28 6 20 6 12 C6 8 10 5 16 5 C22 5 26 8 26 12 C26 20 16 28 16 28Z" stroke="currentColor" stroke-width="1.8" fill="none"></path>
+            <path d="M16 5 L16 22" stroke="currentColor" stroke-width="1.2" stroke-dasharray="2 2" opacity="0.5"></path>
+            <path d="M10 10 Q13 14 16 12 Q19 10 22 14" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" fill="none" opacity="0.7"></path>
+          </svg>
+        </div>
+        <div class="isc-strip__content">
+          <strong class="isc-strip__label">צורות היער</strong>
+          <span class="isc-strip__desc">עלים, פטריות, ענפים מפותלים — מוטיבים מהיער הטרופי מוצקים בזהב ובנחושת בטכניקות אמנות ידנית.</span>
+        </div>
+      </div>
+
+      <div class="isc-strip__divider" aria-hidden="true"></div>
+
+      <div class="isc-strip__item">
+        <div class="isc-strip__icon" aria-hidden="true">
+          <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" width="28" height="28">
+            <polygon points="16,4 19,12 28,12 21,18 24,26 16,21 8,26 11,18 4,12 13,12" stroke="currentColor" stroke-width="1.6" fill="none"></polygon>
+            <circle cx="16" cy="16" r="3" fill="currentColor" opacity="0.4"></circle>
+          </svg>
+        </div>
+        <div class="isc-strip__content">
+          <strong class="isc-strip__label">פרט אספני</strong>
+          <span class="isc-strip__desc">כל יצירה היא מהדורה מוגבלת. גימורים מוחשיים, אבזמים מלוטשים, וקסמים ייחודיים הופכים כל תכשיט לאובייקט אמנות.</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- CTA Row -->
+    <div class="isc-cta-row">
+      <!-- Tropical leaf decoration -->
+      <svg class="isc-deco isc-deco--leaf-cta" aria-hidden="true" data-no-icon-edit="true" viewBox="0 0 200 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M10,150 C30,100 80,60 150,20" stroke="#4A7A40" stroke-width="1.5" stroke-linecap="round" opacity="0.2"></path>
+        <path d="M10,150 C50,120 100,90 150,20 C100,70 60,100 10,150Z" fill="#4A7A40" opacity="0.15"></path>
+        <path d="M40,130 C55,110 90,80 130,50" stroke="#4A7A40" stroke-width="1" stroke-linecap="round" opacity="0.15"></path>
+        <path d="M60,120 C70,105 100,85 120,65" stroke="#4A7A40" stroke-width="0.8" stroke-linecap="round" opacity="0.12"></path>
+      </svg>
+      <a href="/contact" class="isc-cta-link">גלי את הקולקציה
+        <svg aria-hidden="true" data-no-icon-edit="true" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M13 10 L7 5 M13 10 L7 15" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
+        </svg>
+      </a>
+    </div>
+
+  </div>
+
+</section>
   
 
     <section class="featured-categories-section" id="featured-categories" data-zappy-dynamic="true">
