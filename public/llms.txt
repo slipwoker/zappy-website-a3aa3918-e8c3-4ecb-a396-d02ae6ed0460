@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+תכשיטים בהשראת הטבע ים ויער — קולקציות ייחודיות המשלבות את רוח האוקיינוס עם יופי היער הטרופי. תכשיטי יוקרה ידידותיים לסביבה שיגרמו לך להרגיש את הטבע על העור.
+
+### אומנות
+https://example.com/craftsmanship
+כל תכשיט הוא סיפור של מיומנות ואהבה לטבע. גלי את תהליך היצירה הידני שמאחורי תכשיטים אורגניים לאישה, שמשלב מרקמי ים ויער לכדי יצירת אמנות עוטפת.
+
+### אודות
+https://example.com/about
+מה קורה כשאמנית מתאהבת בגלי האוקיינוס ובצל היערות? נולד מותג של תכשיטים מיוחדים לאספנים. גלי את הפילוסופיה, ההשראה ואת הנשמה שמאחורי כל יצירה מהוואי.
+
+### צור קשר
+https://example.com/contact
+רוצה תכשיט בהשראת הטבע ים ויער שנוצר במיוחד עבורך? צרי קשר עוד היום לייעוץ אישי, הזמנות מיוחדות ושיתופי פעולה — כי כל אישה ראויה לתכשיט שמספר את סיפורה.
+
+### Products
+https://example.com/products
+המוצרים שלנו - תכשיטים ונוי ים ויער Honolulu
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - תכשיטים ונוי ים ויער Honolulu
+
+### Category
+https://example.com/category/:slug
+מוצרים - תכשיטים ונוי ים ויער Honolulu
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
