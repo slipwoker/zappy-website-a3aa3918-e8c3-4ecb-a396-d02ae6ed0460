@@ -1,79 +1,91 @@
-# Business — Generative Engine Optimization Map
+# תכשיטים ונוי ים ויער Honolulu — Generative Engine Optimization Map
+
+> A jewelry and decorative accessories brand called 'תכשיטים ונוי ים ויער' (Jewelry and Ornaments of Sea and Forest), based in Honolulu. The brand draws deep inspiration from nature — specifically the ocean and forest — blending the lush tropical vibes of Hawaii with organic, earthy aesthetics. The brand likely features handcrafted or artisan pieces that evoke natural textures, colors, and motifs from both marine and woodland environments.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://honolulu-sea-and-forest-jewelr.zappy5.app
 תכשיטים בהשראת הטבע ים ויער — קולקציות ייחודיות המשלבות את רוח האוקיינוס עם יופי היער הטרופי. תכשיטי יוקרה ידידותיים לסביבה שיגרמו לך להרגיש את הטבע על העור.
 
 ### אומנות
-https://example.com/craftsmanship
+https://honolulu-sea-and-forest-jewelr.zappy5.app/craftsmanship
 כל תכשיט הוא סיפור של מיומנות ואהבה לטבע. גלי את תהליך היצירה הידני שמאחורי תכשיטים אורגניים לאישה, שמשלב מרקמי ים ויער לכדי יצירת אמנות עוטפת.
 
 ### אודות
-https://example.com/about
+https://honolulu-sea-and-forest-jewelr.zappy5.app/about
 מה קורה כשאמנית מתאהבת בגלי האוקיינוס ובצל היערות? נולד מותג של תכשיטים מיוחדים לאספנים. גלי את הפילוסופיה, ההשראה ואת הנשמה שמאחורי כל יצירה מהוואי.
 
 ### צור קשר
-https://example.com/contact
+https://honolulu-sea-and-forest-jewelr.zappy5.app/contact
 רוצה תכשיט בהשראת הטבע ים ויער שנוצר במיוחד עבורך? צרי קשר עוד היום לייעוץ אישי, הזמנות מיוחדות ושיתופי פעולה — כי כל אישה ראויה לתכשיט שמספר את סיפורה.
 
 ### Products
-https://example.com/products
+https://honolulu-sea-and-forest-jewelr.zappy5.app/products
 המוצרים שלנו - תכשיטים ונוי ים ויער Honolulu
 
 ### Cart
-https://example.com/cart
+https://honolulu-sea-and-forest-jewelr.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://honolulu-sea-and-forest-jewelr.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://honolulu-sea-and-forest-jewelr.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://honolulu-sea-and-forest-jewelr.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://honolulu-sea-and-forest-jewelr.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://honolulu-sea-and-forest-jewelr.zappy5.app/product/:slug
 פרטי המוצר - תכשיטים ונוי ים ויער Honolulu
 
 ### Category
-https://example.com/category/:slug
+https://honolulu-sea-and-forest-jewelr.zappy5.app/category/:slug
 מוצרים - תכשיטים ונוי ים ויער Honolulu
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://honolulu-sea-and-forest-jewelr.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://honolulu-sea-and-forest-jewelr.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://honolulu-sea-and-forest-jewelr.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About תכשיטים ונוי ים ויער Honolulu
+A jewelry and decorative accessories brand called 'תכשיטים ונוי ים ויער' (Jewelry and Ornaments of Sea and Forest), based in Honolulu. The brand draws deep inspiration from nature — specifically the ocean and forest — blending the lush tropical vibes of Hawaii with organic, earthy aesthetics. The brand likely features handcrafted or artisan pieces that evoke natural textures, colors, and motifs from both marine and woodland environments.
+
+## Target Audience
+- אספני תכשיטי יוקרה
+- צרכנים ידידותיים לסביבה
+- נשים מתקדמות באופנה
+
+## Industry
+תכשיטים ואופנה
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://honolulu-sea-and-forest-jewelr.zappy5.app/sitemap.xml
+- **Robots.txt**: https://honolulu-sea-and-forest-jewelr.zappy5.app/robots.txt
