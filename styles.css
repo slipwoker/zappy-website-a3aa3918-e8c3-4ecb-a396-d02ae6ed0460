@@ -363,7 +363,7 @@ a:hover {
 }
 
 .site-footer a {
-  color: var(--text-dark);
+  color: #E8DCC8;
 }
 
 .site-footer a:hover {
@@ -2339,8 +2339,8 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 }
 
 .site-footer {
-  background-color: #F6F2EA;
-  color: var(--text-dark);
+  background-color: #1A1208;
+  color: var(--text-light);
   font-family: 'Rubik', sans-serif;
   font-weight: 300;
   direction: rtl;
@@ -16464,6 +16464,18 @@ main,
 }
 
 /* ==END ZAPPY V2 E-COMMERCE THEME CSS== */
+
+.site-footer, .site-footer p, .site-footer span, .site-footer li, .site-footer h3, .site-footer h4, .site-footer .footer-tagline, .site-footer .footer-story-text, .site-footer .footer-copyright, .site-footer .footer-heading {
+  color: var(--text-light) !important;
+}
+
+.site-footer a, .site-footer .footer-links a, .site-footer .footer-contact a, .site-footer .footer-legal a, .site-footer .footer-nav a {
+  color: #E8DCC8 !important;
+}
+
+.site-footer a:hover {
+  color: var(--accent) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
