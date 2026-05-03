@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/sitemap.xml
+Sitemap: https://wwwhonolulu.co.il/sitemap.xml
