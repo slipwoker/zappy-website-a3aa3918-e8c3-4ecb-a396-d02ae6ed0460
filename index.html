@@ -245,6 +245,460 @@
     <script src="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.umd.js"></script>
     <!-- Mickidum Accessibility Toolbar -->
     <script src="https://cdn.jsdelivr.net/gh/mickidum/acc_toolbar/acctoolbar/acctoolbar.min.js"></script>
+
+<style data-zappy-section-v2-css="true">
+/* V2 Regenerated Section CSS */
+.index-showcase-section {
+  position: relative;
+  overflow: visible;
+  background-color: #0D0A08;
+  background-image:
+    radial-gradient(ellipse at 20% 10%, rgba(201,168,76,0.07) 0%, transparent 55%),
+    radial-gradient(ellipse at 80% 80%, rgba(45,122,58,0.08) 0%, transparent 50%),
+    linear-gradient(160deg, #0D0A08 0%, #111009 100%);
+  color: var(--text-light);
+  padding: 100px 24px 100px;
+  direction: rtl;
+  font-family: 'Manrope', sans-serif;
+}
+
+/* Decorative botanical top-left */
+.index-showcase-section .showcase-botanical-decor {
+  position: absolute;
+  inset-inline-end: 24px;
+  top: 40px;
+  width: 180px;
+  height: auto;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Decorative mushroom bottom-right */
+.index-showcase-section .showcase-mushroom-decor {
+  position: absolute;
+  inset-inline-start: 24px;
+  bottom: 100px;
+  width: 120px;
+  height: auto;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Container */
+.index-showcase-section .showcase-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+}
+
+/* ─── HEADER ─── */
+.index-showcase-section .showcase-header {
+  text-align: center;
+  margin-bottom: 56px;
+}
+
+.index-showcase-section .showcase-label {
+  display: inline-block;
+  font-family: 'Manrope', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent);
+  border: 1px solid rgba(212,168,67,0.35);
+  border-radius: 100px;
+  padding: 5px 18px;
+  margin-bottom: 20px;
+}
+
+.index-showcase-section .showcase-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.01em;
+  color: var(--text-light);
+  margin: 0 auto 20px;
+  max-width: 700px;
+}
+
+.index-showcase-section .showcase-intro {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: #C8B99A;
+  max-width: 580px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* ─── MAIN GRID ─── */
+.index-showcase-section .showcase-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  align-items: stretch;
+  direction: rtl;
+}
+
+/* ─── CARDS ─── */
+.index-showcase-section .showcase-card {
+  background: #1A1208;
+  border: 1px solid rgba(212,175,106,0.15);
+  border-radius: 6px;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 16px 48px rgba(0,0,0,0.45);
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.index-showcase-section .showcase-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 24px 72px rgba(0,0,0,0.6), 0 0 32px rgba(201,168,76,0.18);
+  border-color: rgba(212,175,106,0.35);
+}
+
+/* Featured card fills full height */
+.index-showcase-section .showcase-card--featured {
+  height: 100%;
+}
+
+/* Side stack */
+.index-showcase-section .showcase-side-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.index-showcase-section .showcase-card--side {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  min-height: 0;
+}
+
+/* Image wrap */
+.index-showcase-section .showcase-card__image-wrap {
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.index-showcase-section .showcase-card--featured .showcase-card__image-wrap {
+  height: 340px;
+  width: 100%;
+}
+
+.index-showcase-section .showcase-card__image-wrap--side {
+  width: 160px;
+  height: auto;
+  min-height: 160px;
+}
+
+.index-showcase-section .showcase-card__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.5s ease;
+}
+
+.index-showcase-section .showcase-card:hover .showcase-card__img {
+  transform: scale(1.05);
+}
+
+.index-showcase-section .showcase-card__overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 30%, rgba(13,10,8,0.65) 100%);
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Badge */
+.index-showcase-section .showcase-badge {
+  position: absolute;
+  top: 14px;
+  inset-inline-end: 14px;
+  z-index: 2;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #0D0A08;
+  background: var(--accent);
+  border-radius: 100px;
+  padding: 4px 10px;
+}
+
+.index-showcase-section .showcase-badge--sea {
+  background: #2D7A8A;
+  color: var(--text-light);
+}
+
+.index-showcase-section .showcase-badge--forest {
+  background: var(--secondary);
+  color: var(--text-light);
+}
+
+/* Card body */
+.index-showcase-section .showcase-card__body {
+  padding: 24px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.index-showcase-section .showcase-card__body--side {
+  padding: 20px 20px 20px 16px;
+  justify-content: center;
+}
+
+/* Meta tags row */
+.index-showcase-section .showcase-card__meta {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  direction: rtl;
+  margin-bottom: 4px;
+}
+
+.index-showcase-section .showcase-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #C8B99A;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 100px;
+  padding: 3px 10px;
+}
+
+.index-showcase-section .showcase-tag--gold {
+  color: var(--accent);
+  border-color: rgba(212,168,67,0.3);
+  background: rgba(212,168,67,0.08);
+}
+
+/* Card title */
+.index-showcase-section .showcase-card__title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: var(--text-light);
+  margin: 0;
+  text-align: right;
+}
+
+.index-showcase-section .showcase-card--side .showcase-card__title {
+  font-size: 1.2rem;
+}
+
+/* Card description */
+.index-showcase-section .showcase-card__desc {
+  font-size: 0.9rem;
+  line-height: 1.75;
+  color: #C8B99A;
+  margin: 0;
+  text-align: right;
+}
+
+/* ─── CTA ROW ─── */
+.index-showcase-section .showcase-cta-row {
+  margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  position: relative;
+  text-align: center;
+}
+
+.index-showcase-section .showcase-leaf-decor {
+  position: absolute;
+  inset-inline-start: 0;
+  bottom: -20px;
+  width: 200px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.index-showcase-section .showcase-cta-btn {
+  position: relative;
+  z-index: 1;
+  display: inline-block;
+  border-radius: 100px;
+  padding: 14px 36px;
+  background: var(--primary);
+  color: var(--text-light);
+  border: none;
+  font-family: 'Manrope', sans-serif;
+  font-weight: 700;
+  font-size: 0.95rem;
+  letter-spacing: 0.06em;
+  text-decoration: none;
+  transition: background 0.25s ease, box-shadow 0.25s ease, transform 0.2s ease;
+  box-shadow: 0 8px 24px rgba(200,25,42,0.35);
+}
+
+.index-showcase-section .showcase-cta-btn:hover {
+  background: #a81422;
+  box-shadow: 0 12px 32px rgba(200,25,42,0.5);
+  transform: translateY(-2px);
+}
+
+.index-showcase-section .showcase-cta-tagline {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  justify-content: center;
+  font-size: 0.82rem;
+  color: #7a6e5e;
+  line-height: 1.6;
+  max-width: 520px;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+}
+
+.index-showcase-section .showcase-dot {
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--accent);
+  flex-shrink: 0;
+  opacity: 0.6;
+}
+
+/* ─── BOTTOM DIVIDER ─── */
+.index-showcase-section .showcase-divider-wrapper {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 60px;
+  pointer-events: none;
+  z-index: 5;
+}
+
+.index-showcase-section .showcase-divider-wrapper svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+/* ─── RESPONSIVE ─── */
+@media (max-width: 900px) {
+  .index-showcase-section .showcase-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .index-showcase-section .showcase-card--featured .showcase-card__image-wrap {
+    height: 280px;
+  }
+
+  .index-showcase-section .showcase-side-stack {
+    flex-direction: row;
+    gap: 16px;
+  }
+
+  .index-showcase-section .showcase-card--side {
+    flex-direction: column;
+    flex: 1;
+  }
+
+  .index-showcase-section .showcase-card__image-wrap--side {
+    width: 100%;
+    height: 200px;
+  }
+}
+
+@media (max-width: 768px) {
+  .index-showcase-section {
+    padding: 100px 16px 90px;
+  }
+
+  .index-showcase-section .showcase-title {
+    font-size: 2rem;
+  }
+
+  .index-showcase-section .showcase-header {
+    margin-bottom: 36px;
+  }
+
+  .index-showcase-section .showcase-grid {
+    grid-template-columns: 1fr !important;
+    gap: 16px;
+  }
+
+  .index-showcase-section .showcase-side-stack {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .index-showcase-section .showcase-card--side {
+    flex-direction: column;
+  }
+
+  .index-showcase-section .showcase-card__image-wrap--side {
+    width: 100%;
+    height: 180px;
+  }
+
+  .index-showcase-section .showcase-card--featured .showcase-card__image-wrap {
+    height: 240px;
+  }
+
+  .index-showcase-section .showcase-botanical-decor {
+    width: 110px;
+    top: 20px;
+  }
+
+  .index-showcase-section .showcase-mushroom-decor {
+    display: none;
+  }
+
+  .index-showcase-section .showcase-leaf-decor {
+    display: none;
+  }
+
+  .index-showcase-section .showcase-cta-tagline {
+    font-size: 0.78rem;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .index-showcase-section .showcase-cta-row {
+    margin-top: 40px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .index-showcase-section .showcase-grid {
+    grid-template-columns: 1.1fr 0.9fr;
+  }
+
+  .index-showcase-section .showcase-card--featured .showcase-card__image-wrap {
+    height: 400px;
+  }
+
+  .index-showcase-section .showcase-card__image-wrap--side {
+    width: 180px;
+  }
+}
+</style>
     <link rel="stylesheet" href="/styles.css">
 
     <style id="zappy-dropdown-submenu-styles">
@@ -358,13 +812,13 @@
         <!-- Categories will be loaded dynamically -->
       </ul>
     </li>
-  <li><a href="/craftsmanship">אומנות</a></li><li><a href="/about">אודות</a></li><li><a href="/contact">צור קשר</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><a href="/login" class="login-link nav-login" title="התחברות"><svg class="login-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg></a><a href="#cart" class="cart-link nav-cart" id="cart-drawer-toggle" title="עגלת קניות"><svg class="cart-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/></svg><span class="cart-count">0</span></a><div class="nav-search-box">
+  <li><a href="/craftsmanship">אומנות</a></li><li><a href="/about">אודות</a></li><li><a href="/contact">צור קשר</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><a href="/login" class="login-link nav-login" title="התחברות"><svg class="login-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg></a><a href="#cart" class="cart-link nav-cart" id="cart-drawer-toggle" title="עגלת קניות"><svg class="cart-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg><span class="cart-count">0</span></a><div class="nav-search-box">
     <input type="text" class="nav-search-input" id="nav-search-input" placeholder="חיפוש מוצרים..." autocomplete="off">
     <button class="nav-search-btn" id="nav-search-btn" title="חיפוש">
-      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg>
     </button>
     <div class="nav-search-results" id="nav-search-results"></div>
-  </div></div><div class="nav-ecommerce-icons nav-icons-right"><button class="nav-search-toggle" id="mobile-search-toggle" title="חיפוש"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg></button></div></div>
+  </div></div><div class="nav-ecommerce-icons nav-icons-right"><button class="nav-search-toggle" id="mobile-search-toggle" title="חיפוש"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg></button></div></div>
 
     
 
@@ -916,153 +1370,139 @@
 
     <section class="index-showcase-section" data-layout-spec="בית-showcase" dir="rtl" data-zappy-section="true" id="featured-products">
 
-  <!-- Decorative botanical SVG top-right -->
-  <svg class="isc-deco isc-deco--branch" aria-hidden="true" data-no-icon-edit="true" viewBox="0 0 200 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M160,10 C140,40 100,50 80,90 C60,130 70,160 50,170" stroke="#D4A843" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.35"></path>
-    <circle cx="75" cy="60" r="5" fill="#D4A843" opacity="0.3"></circle>
-    <circle cx="90" cy="80" r="3.5" fill="#D4A843" opacity="0.25"></circle>
-    <path d="M80,90 C65,75 55,80 45,70" stroke="#D4A843" stroke-width="1.2" stroke-linecap="round" fill="none" opacity="0.3"></path>
-    <path d="M100,115 C85,100 75,105 65,95" stroke="#D4A843" stroke-width="1.2" stroke-linecap="round" fill="none" opacity="0.25"></path>
-    <ellipse cx="55" cy="68" rx="8" ry="5" fill="#2D7A3A" opacity="0.25" transform="rotate(-30 55 68)"></ellipse>
-    <ellipse cx="68" cy="92" rx="7" ry="4" fill="#2D7A3A" opacity="0.2" transform="rotate(-20 68 92)"></ellipse>
-    <ellipse cx="62" cy="110" rx="6" ry="3.5" fill="#2D7A3A" opacity="0.2" transform="rotate(-40 62 110)"></ellipse>
-    <circle cx="48" cy="72" r="3" fill="#C8192A" opacity="0.3"></circle>
-    <circle cx="66" cy="95" r="2.5" fill="#C8192A" opacity="0.25"></circle>
+  <!-- Decorative botanical motif -->
+  <svg class="showcase-botanical-decor" data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 200 220" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" stroke="#C9A84C" stroke-width="1.2" opacity="0.32">
+      <path d="M100,200 C100,200 80,160 60,130 C40,100 20,90 30,70 C40,50 70,60 85,80 C100,100 100,200 100,200Z"></path>
+      <path d="M100,200 C100,200 120,155 145,125 C170,95 190,85 178,65 C166,45 138,58 122,78 C106,98 100,200 100,200Z"></path>
+      <circle cx="60" cy="68" r="6"></circle>
+      <circle cx="145" cy="62" r="5"></circle>
+      <circle cx="40" cy="95" r="4"></circle>
+      <circle cx="168" cy="90" r="4"></circle>
+      <path d="M85,120 C75,110 65,115 60,108"></path>
+      <path d="M115,118 C125,108 135,113 140,106"></path>
+    </g>
   </svg>
 
-  <!-- Decorative mushroom SVG bottom-left -->
-  <svg class="isc-deco isc-deco--mushroom" aria-hidden="true" data-no-icon-edit="true" viewBox="0 0 120 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <ellipse cx="60" cy="55" rx="40" ry="25" fill="#C8192A" opacity="0.12"></ellipse>
-    <rect x="52" y="55" width="16" height="30" rx="4" fill="#C8192A" opacity="0.08"></rect>
-    <circle cx="48" cy="48" r="4" fill="#FDF6EC" opacity="0.12"></circle>
-    <circle cx="65" cy="42" r="3" fill="#FDF6EC" opacity="0.1"></circle>
-    <circle cx="72" cy="52" r="2.5" fill="#FDF6EC" opacity="0.1"></circle>
+  <!-- Decorative mushroom motif -->
+  <svg class="showcase-mushroom-decor" data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 120 100" xmlns="http://www.w3.org/2000/svg">
+    <g opacity="0.1">
+      <ellipse cx="60" cy="55" rx="22" ry="8" fill="#C8192A"></ellipse>
+      <path d="M38,55 C38,30 82,30 82,55Z" fill="#C8192A"></path>
+      <rect x="54" y="55" width="12" height="30" rx="4" fill="#C8192A"></rect>
+      <circle cx="50" cy="44" r="4" fill="#FDF6EC" opacity="0.5"></circle>
+      <circle cx="68" cy="38" r="3" fill="#FDF6EC" opacity="0.5"></circle>
+      <circle cx="72" cy="50" r="2.5" fill="#FDF6EC" opacity="0.5"></circle>
+    </g>
   </svg>
 
-  <div class="isc-container">
+  <div class="showcase-container">
 
     <!-- Section Header -->
-    <header class="isc-header">
-      <span class="isc-eyebrow">הקולקציה שלנו</span>
-      <h2 class="isc-title">תכשיטים בהשראת הטבע —<br>ים ויער</h2>
-      <p class="isc-intro">כל תכשיט הוא פרק בסיפור של טבע חי. אנו שואבים השראה מרקמות הים, מצורות היער, ומהפרטים הקטנים שרק אמן מיומן יכול להעניק לחומר. תכשיטים אורגניים לאישה שמחפשת יופי אמיתי.</p>
+    <header class="showcase-header">
+      <span class="showcase-label">הקולקציה שלנו</span>
+      <h2 class="showcase-title">תכשיטים בהשראת הטבע —<br>ים ויער</h2>
+      <p class="showcase-intro">כל תכשיט הוא פרק בסיפור של טבע חי. אנו שואבים השראה מרקמות הים, מצורות היער, ומהפרטים הקטנים שרק אמן מיומן יכול להעניק לחומר. תכשיטים אורגניים לאישה שמחפשת יופי אמיתי.</p>
     </header>
 
     <!-- Main Showcase Grid -->
-    <div class="isc-grid">
+    <div class="showcase-grid">
 
-      <!-- Large Feature Card -->
-      <article class="isc-card isc-card--feature">
-        <div class="isc-card__image-wrap">
-          <img alt="קסם תכשיט ידני בהשראת יער" class="isc-card__img" src="/assets/site-index-showcase-image-3.webp" data-placeholder="index-showcase-image-3" data-context="Close-up of a handcrafted jewelry charm, small mushroom and leaf motif in gold and coral enamel, resting on aged linen fabric, warm candlelit editorial photography, macro detail" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
-          <div class="isc-card__img-overlay"></div>
-          <span class="isc-card__badge">מהדורה מוגבלת</span>
+      <!-- Featured Card - Large -->
+      <article class="showcase-card showcase-card--featured">
+        <div class="showcase-card__image-wrap">
+          <img alt="קסם תכשיט ידני בהשראת יער" class="showcase-card__img" src="/assets/site-index-showcase-image-3.webp" data-placeholder="index-showcase-image-3" data-context="Close-up of a handcrafted jewelry charm, small mushroom and leaf motif in gold and coral enamel, resting on aged linen fabric, warm candlelit editorial photography, macro detail" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+          <div class="showcase-card__overlay"></div>
+          <span class="showcase-badge">
+            <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 16 16" width="12" height="12" fill="currentColor" aria-hidden="true"><path d="M8 0L9.8 5.5H16L10.9 8.9L12.7 14.4L8 11L3.3 14.4L5.1 8.9L0 5.5H6.2Z"></path></svg>
+            מהדורה מוגבלת
+          </span>
         </div>
-        <div class="isc-card__body">
-          <h3 class="isc-card__title">פרט אספני</h3>
-          <p class="isc-card__text">כל יצירה היא מהדורה מוגבלת. גימורים מוחשיים, אבזמים מלוטשים, וקסמים ייחודיים הופכים כל תכשיט לאובייקט אמנות.</p>
-          <div class="isc-card__tag-row">
-            <span class="isc-tag isc-tag--gold">זהב</span>
-            <span class="isc-tag isc-tag--red">פטריות</span>
-            <span class="isc-tag isc-tag--green">יער</span>
+        <div class="showcase-card__body">
+          <div class="showcase-card__meta">
+            <span class="showcase-tag">
+              <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 16 16" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M3 2C3 1.4 3.4 1 4 1H9L13 5V14C13 14.6 12.6 15 12 15H4C3.4 15 3 14.6 3 14V2ZM9 1.5V5H12.5L9 1.5Z"></path></svg>
+              יער
+            </span>
+            <span class="showcase-tag showcase-tag--gold">
+              <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 16 16" width="14" height="14" fill="currentColor" aria-hidden="true"><circle cx="8" cy="8" r="5" fill="none" stroke="currentColor" stroke-width="1.5"></circle><circle cx="8" cy="8" r="2"></circle></svg>
+              זהב
+            </span>
           </div>
+          <h3 class="showcase-card__title">פרט אספני</h3>
+          <p class="showcase-card__desc">כל יצירה היא מהדורה מוגבלת. גימורים מוחשיים, אבזמים מלוטשים, וקסמים ייחודיים הופכים כל תכשיט לאובייקט אמנות.</p>
         </div>
       </article>
 
-      <!-- Right column: two stacked cards -->
-      <div class="isc-col-stack">
+      <!-- Side Stack -->
+      <div class="showcase-side-stack">
 
-        <!-- Sea Card -->
-        <article class="isc-card isc-card--sea">
-          <div class="isc-card__image-wrap isc-card__image-wrap--sm">
-            <img alt="צמיד חרוזים בהשראת הים" class="isc-card__img" src="/assets/site-index-showcase-image-1-1777464587404-pwdi01.webp?v=1777464587404" data-placeholder="index-showcase-image-1" data-context="Extreme close-up of artisan beaded jewelry bracelet with ocean-inspired sea glass beads and polished gold clasp, laid on dark charcoal textured surface, dramatic editorial lighting, macro photography for luxury jewelry brand" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
-            <div class="isc-card__img-overlay isc-card__img-overlay--sea"></div>
+        <!-- Card 2 -->
+        <article class="showcase-card showcase-card--side">
+          <div class="showcase-card__image-wrap showcase-card__image-wrap--side">
+            <img alt="צמיד חרוזים בהשראת הים" class="showcase-card__img" src="/assets/site-index-showcase-image-1-1777464587404-pwdi01.webp?v=1777464587404" data-placeholder="index-showcase-image-1" data-context="Extreme close-up of artisan beaded jewelry bracelet with ocean-inspired sea glass beads and polished gold clasp, laid on dark charcoal textured surface, dramatic editorial lighting, macro photography for luxury jewelry brand" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+            <div class="showcase-card__overlay"></div>
+            <span class="showcase-badge showcase-badge--sea">
+              <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 16 16" width="12" height="12" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M1 8C3 5 5 11 8 8C11 5 13 11 15 8"></path></svg>
+              ים
+            </span>
           </div>
-          <div class="isc-card__body">
-            <h3 class="isc-card__title">רקמות הים</h3>
-            <p class="isc-card__text">חרוזים מלוטשים, קונכיות שנאספו ביד, וזכוכית ים שנשחקה לאורך שנים — כל חומר מספר את שפת האוקיינוס.</p>
-          </div>
-        </article>
-
-        <!-- Forest Card -->
-        <article class="isc-card isc-card--forest">
-          <div class="isc-card__image-wrap isc-card__image-wrap--sm">
-            <img alt="תכשיטי יוקרה ידידותיים לסביבה בהשראת יער" class="isc-card__img" src="/assets/site-index-showcase-image-2.webp" data-placeholder="index-showcase-image-2" data-context="Overhead flat lay of handmade nature-inspired jewelry pieces including leaf pendant necklace and forest mushroom earrings in gold and deep red, arranged on warm cream linen with tropical botanical leaves as props, editorial jewelry photography" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
-            <div class="isc-card__img-overlay isc-card__img-overlay--forest"></div>
-          </div>
-          <div class="isc-card__body">
-            <h3 class="isc-card__title">צורות היער</h3>
-            <p class="isc-card__text">עלים, פטריות, ענפים מפותלים — מוטיבים מהיער הטרופי מוצקים בזהב ובנחושת בטכניקות אמנות ידנית.</p>
+          <div class="showcase-card__body showcase-card__body--side">
+            <h3 class="showcase-card__title">רקמות הים</h3>
+            <p class="showcase-card__desc">חרוזים מלוטשים, קונכיות שנאספו ביד, וזכוכית ים שנשחקה לאורך שנים — כל חומר מספר את שפת האוקיינוס.</p>
           </div>
         </article>
 
+        <!-- Card 3 -->
+        <article class="showcase-card showcase-card--side">
+          <div class="showcase-card__image-wrap showcase-card__image-wrap--side">
+            <img alt="תכשיטי יוקרה ידידותיים לסביבה בהשראת יער" class="showcase-card__img" src="/assets/site-index-showcase-image-2.webp" data-placeholder="index-showcase-image-2" data-context="Overhead flat lay of handmade nature-inspired jewelry pieces including leaf pendant necklace and forest mushroom earrings in gold and deep red, arranged on warm cream linen with tropical botanical leaves as props, editorial jewelry photography" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+            <div class="showcase-card__overlay"></div>
+            <span class="showcase-badge showcase-badge--forest">
+              <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 16 16" width="12" height="12" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M8 1L11 7H5L8 1ZM8 7V15M5 15H11"></path></svg>
+              פטריות
+            </span>
+          </div>
+          <div class="showcase-card__body showcase-card__body--side">
+            <h3 class="showcase-card__title">צורות היער</h3>
+            <p class="showcase-card__desc">עלים, פטריות, ענפים מפותלים — מוטיבים מהיער הטרופי מוצקים בזהב ובנחושת בטכניקות אמנות ידנית.</p>
+          </div>
+        </article>
+
       </div>
+      <!-- /Side Stack -->
     </div>
-
-    <!-- Feature List Strip -->
-    <div class="isc-strip">
-      <div class="isc-strip__item">
-        <div class="isc-strip__icon" aria-hidden="true">
-          <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" width="28" height="28">
-            <path d="M16 4 C10 4 4 10 4 16 C4 22 8 28 16 28 C24 28 28 22 28 16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path>
-            <path d="M22 6 Q26 8 28 12" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path>
-            <circle cx="16" cy="16" r="3" fill="currentColor" opacity="0.5"></circle>
-          </svg>
-        </div>
-        <div class="isc-strip__content">
-          <strong class="isc-strip__label">רקמות הים</strong>
-          <span class="isc-strip__desc">חרוזים מלוטשים, קונכיות שנאספו ביד, וזכוכית ים שנשחקה לאורך שנים — כל חומר מספר את שפת האוקיינוס.</span>
-        </div>
-      </div>
-
-      <div class="isc-strip__divider" aria-hidden="true"></div>
-
-      <div class="isc-strip__item">
-        <div class="isc-strip__icon" aria-hidden="true">
-          <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" width="28" height="28">
-            <path d="M16 28 C16 28 6 20 6 12 C6 8 10 5 16 5 C22 5 26 8 26 12 C26 20 16 28 16 28Z" stroke="currentColor" stroke-width="1.8" fill="none"></path>
-            <path d="M16 5 L16 22" stroke="currentColor" stroke-width="1.2" stroke-dasharray="2 2" opacity="0.5"></path>
-            <path d="M10 10 Q13 14 16 12 Q19 10 22 14" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" fill="none" opacity="0.7"></path>
-          </svg>
-        </div>
-        <div class="isc-strip__content">
-          <strong class="isc-strip__label">צורות היער</strong>
-          <span class="isc-strip__desc">עלים, פטריות, ענפים מפותלים — מוטיבים מהיער הטרופי מוצקים בזהב ובנחושת בטכניקות אמנות ידנית.</span>
-        </div>
-      </div>
-
-      <div class="isc-strip__divider" aria-hidden="true"></div>
-
-      <div class="isc-strip__item">
-        <div class="isc-strip__icon" aria-hidden="true">
-          <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" width="28" height="28">
-            <polygon points="16,4 19,12 28,12 21,18 24,26 16,21 8,26 11,18 4,12 13,12" stroke="currentColor" stroke-width="1.6" fill="none"></polygon>
-            <circle cx="16" cy="16" r="3" fill="currentColor" opacity="0.4"></circle>
-          </svg>
-        </div>
-        <div class="isc-strip__content">
-          <strong class="isc-strip__label">פרט אספני</strong>
-          <span class="isc-strip__desc">כל יצירה היא מהדורה מוגבלת. גימורים מוחשיים, אבזמים מלוטשים, וקסמים ייחודיים הופכים כל תכשיט לאובייקט אמנות.</span>
-        </div>
-      </div>
-    </div>
+    <!-- /Main Showcase Grid -->
 
     <!-- CTA Row -->
-    <div class="isc-cta-row">
-      <!-- Tropical leaf decoration -->
-      <svg class="isc-deco isc-deco--leaf-cta" aria-hidden="true" data-no-icon-edit="true" viewBox="0 0 200 160" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M10,150 C30,100 80,60 150,20" stroke="#4A7A40" stroke-width="1.5" stroke-linecap="round" opacity="0.2"></path>
-        <path d="M10,150 C50,120 100,90 150,20 C100,70 60,100 10,150Z" fill="#4A7A40" opacity="0.15"></path>
-        <path d="M40,130 C55,110 90,80 130,50" stroke="#4A7A40" stroke-width="1" stroke-linecap="round" opacity="0.15"></path>
-        <path d="M60,120 C70,105 100,85 120,65" stroke="#4A7A40" stroke-width="0.8" stroke-linecap="round" opacity="0.12"></path>
+    <div class="showcase-cta-row">
+      <!-- Tropical leaf decor -->
+      <svg class="showcase-leaf-decor" data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 200 160" xmlns="http://www.w3.org/2000/svg">
+        <g fill="none" stroke="#4A7A40" stroke-width="1.5" opacity="0.2">
+          <path d="M10,150 C10,150 40,80 100,40 C160,0 190,20 190,20 C190,20 160,60 100,90 C40,120 10,150 10,150Z"></path>
+          <path d="M10,150 L100,90"></path>
+          <path d="M35,128 C50,110 70,100 85,95"></path>
+          <path d="M60,108 C75,92 90,84 100,80"></path>
+          <path d="M85,90 C95,76 108,68 118,62"></path>
+          <path d="M25,140 C45,118 65,105 80,98"></path>
+        </g>
       </svg>
-      <a href="/contact" class="isc-cta-link">גלי את הקולקציה
-        <svg aria-hidden="true" data-no-icon-edit="true" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M13 10 L7 5 M13 10 L7 15" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
-        </svg>
-      </a>
+      <a href="/contact" class="btn-pill showcase-cta-btn">גלי את הקולקציה</a>
+      <div class="showcase-cta-tagline">
+        <span class="showcase-dot"></span>
+        <span>חרוזים מלוטשים, קונכיות שנאספו ביד, וזכוכית ים שנשחקה לאורך שנים — כל חומר מספר את שפת האוקיינוס.</span>
+        <span class="showcase-dot"></span>
+      </div>
     </div>
 
+  </div>
+  <!-- /showcase-container -->
+
+  <!-- Bottom divider -->
+  <div class="showcase-divider-wrapper">
+    <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1200 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,60 L0,28 Q100,18 200,26 T400,22 Q500,28 600,18 T800,24 Q900,18 1000,26 T1200,20 L1200,60 Z" fill="var(--bg-light)"></path>
+    </svg>
   </div>
 
 </section>
