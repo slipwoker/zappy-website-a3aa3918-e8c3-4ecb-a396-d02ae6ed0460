@@ -5,65 +5,65 @@
 ## Pages
 
 ### בית
-https://wwwhonolulu.com
+https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com
 תכשיטים בהשראת הטבע ים ויער — קולקציות ייחודיות המשלבות את רוח האוקיינוס עם יופי היער הטרופי. תכשיטי יוקרה ידידותיים לסביבה שיגרמו לך להרגיש את הטבע על העור.
 
 ### אומנות
-https://wwwhonolulu.com/craftsmanship
+https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/craftsmanship
 כל תכשיט הוא סיפור של מיומנות ואהבה לטבע. גלי את תהליך היצירה הידני שמאחורי תכשיטים אורגניים לאישה, שמשלב מרקמי ים ויער לכדי יצירת אמנות עוטפת.
 
 ### אודות
-https://wwwhonolulu.com/about
+https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/about
 מה קורה כשאמנית מתאהבת בגלי האוקיינוס ובצל היערות? נולד מותג של תכשיטים מיוחדים לאספנים. גלי את הפילוסופיה, ההשראה ואת הנשמה שמאחורי כל יצירה מהוואי.
 
 ### צור קשר
-https://wwwhonolulu.com/contact
+https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/contact
 רוצה תכשיט בהשראת הטבע ים ויער שנוצר במיוחד עבורך? צרי קשר עוד היום לייעוץ אישי, הזמנות מיוחדות ושיתופי פעולה — כי כל אישה ראויה לתכשיט שמספר את סיפורה.
 
 ### Products
-https://wwwhonolulu.com/products
+https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/products
 המוצרים שלנו - תכשיטים ונוי ים ויער Honolulu
 
 ### Cart
-https://wwwhonolulu.com/cart
+https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://wwwhonolulu.com/checkout
+https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/checkout
 תשלום
 
 ### Login
-https://wwwhonolulu.com/login
+https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/login
 התחברות לקוחות
 
 ### Account
-https://wwwhonolulu.com/account
+https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/account
 החשבון שלי
 
 ### Order Success
-https://wwwhonolulu.com/order-success
+https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://wwwhonolulu.com/product/:slug
+https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/product/:slug
 פרטי המוצר - תכשיטים ונוי ים ויער Honolulu
 
 ### Category
-https://wwwhonolulu.com/category/:slug
+https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/category/:slug
 מוצרים - תכשיטים ונוי ים ויער Honolulu
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://wwwhonolulu.com/privacy
+https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://wwwhonolulu.com/terms
+https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://wwwhonolulu.com/accessibility
+https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -75,5 +75,5 @@ Information about WCAG compliance and accessibility features.
 
 # Additional Resources
 
-- **Sitemap**: https://wwwhonolulu.com/sitemap.xml
-- **Robots.txt**: https://wwwhonolulu.com/robots.txt
+- **Sitemap**: https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/robots.txt

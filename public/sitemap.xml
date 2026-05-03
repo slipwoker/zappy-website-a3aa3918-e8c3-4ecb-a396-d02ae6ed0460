@@ -1,91 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://wwwhonolulu.com</loc>
+    <loc>https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.com/craftsmanship</loc>
+    <loc>https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/craftsmanship</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.com/about</loc>
+    <loc>https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/about</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.com/contact</loc>
+    <loc>https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/contact</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.com/products</loc>
+    <loc>https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/products</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.com/cart</loc>
+    <loc>https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/cart</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.com/checkout</loc>
+    <loc>https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/checkout</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.com/login</loc>
+    <loc>https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/login</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.com/account</loc>
+    <loc>https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/account</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.com/order-success</loc>
+    <loc>https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/order-success</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.com/product/:slug</loc>
+    <loc>https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/product/:slug</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.com/category/:slug</loc>
+    <loc>https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/category/:slug</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.com/privacy</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wwwhonolulu.com/terms</loc>
+    <loc>https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/privacy</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.com/accessibility</loc>
+    <loc>https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/terms</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://zappy-site-a3aa3918-e8c3-4ecb-a396.onrender.com/accessibility</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

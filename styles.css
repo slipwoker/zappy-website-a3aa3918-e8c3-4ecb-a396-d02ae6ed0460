@@ -8003,6 +8003,22 @@ body.accessibility-widget-visible ._access-menu {
 }
 /* /Zappy custom logo size */
 
+
+
+
+
+.site-footer, .site-footer p, .site-footer span, .site-footer li, .site-footer h3, .site-footer h4, .site-footer .footer-tagline, .site-footer .footer-story-text, .site-footer .footer-copyright, .site-footer .footer-heading {
+  color: var(--text-light) !important;
+}
+
+.site-footer a, .site-footer .footer-links a, .site-footer .footer-contact a, .site-footer .footer-legal a, .site-footer .footer-nav a {
+  color: #E8DCC8 !important;
+}
+
+.site-footer a:hover {
+  color: var(--accent) !important;
+}
+
 /* ==ZAPPY V2 E-COMMERCE THEME CSS== */
 /* ═══════════════════════════════════════════════════════════════════════════ */
 /* V2 E-COMMERCE CSS - Clean V2 Variables Only                                  */
@@ -8951,13 +8967,21 @@ a, button {
   padding-top: 0;
 }
 .checkout-order-details .order-totals-row {
-  display: flex;
-  justify-content: space-between;
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: baseline !important;
+  gap: 12px !important;
   padding: 6px 0;
   font-size: 16px;
   color: var(--text-light);
 }
+.checkout-order-details .order-totals-row span:first-child {
+  flex: 1 1 auto;
+  min-width: 0;
+}
 .checkout-order-details .order-totals-row span:last-child {
+  flex: 0 0 auto;
+  text-align: end;
   font-weight: 600;
 }
 .checkout-order-details .order-totals-row.vat-row {
@@ -10064,6 +10088,18 @@ a, button {
   box-shadow: -4px 0 20px rgba(0,0,0,0.15);
   box-sizing: border-box;
 }
+#cart-drawer.cart-drawer.ltr {
+  right: 0 !important;
+  left: auto !important;
+  transform: translateX(100%);
+  direction: ltr;
+}
+#cart-drawer.cart-drawer.rtl {
+  left: 0 !important;
+  right: auto !important;
+  transform: translateX(-100%);
+  direction: rtl;
+}
 @supports (height: 100dvh) { .cart-drawer { height: 100dvh; } }
 .cart-drawer.active {
   transform: translateX(0);
@@ -10592,7 +10628,10 @@ html[lang="ar"] .mobile-search-panel .search-wrapper,
   .nav-menu.active,
   .nav-menu.nav-menu-active,
   #navMenu.active {
+    top: var(--zappy-mobile-menu-top, var(--total-header-height, var(--zappy-navbar-bottom, 70px))) !important;
+    bottom: 0 !important;
     max-height: calc(100dvh - 70px) !important;
+    max-height: calc(100dvh - var(--zappy-mobile-menu-top, var(--total-header-height, var(--zappy-navbar-bottom, 70px)))) !important;
     overflow-y: auto !important;
   }
 
@@ -11129,9 +11168,16 @@ body.zappy-focused-page .zappy-announcement-bar {
 .catalog-menu-categories {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 4px;
   flex-wrap: wrap;
   justify-content: center !important;
+}
+.zappy-catalog-menu[dir="ltr"] .catalog-menu-categories,
+.zappy-catalog-menu.ltr .catalog-menu-categories {
+  direction: ltr !important;
+}
+.zappy-catalog-menu[dir="rtl"] .catalog-menu-categories,
+.zappy-catalog-menu.rtl .catalog-menu-categories {
   direction: rtl !important;
 }
 
@@ -11160,7 +11206,9 @@ body.zappy-focused-page .zappy-announcement-bar {
   top: 100% !important;
   right: 0 !important;
   min-width: 200px !important;
+  max-width: min(280px, calc(100vw - 32px)) !important;
   max-height: calc(100vh - 200px) !important;
+  overflow-x: hidden !important;
   overflow-y: auto !important;
   background: var(--bg-light, #fff) !important;
   border-radius: 8px !important;
@@ -11195,10 +11243,13 @@ body.zappy-focused-page .zappy-announcement-bar {
 }
 .catalog-menu-parent > .sub-menu .catalog-menu-item {
   width: 100%;
+  box-sizing: border-box;
   justify-content: flex-start;
   border-radius: 6px;
   padding: 8px 14px;
   white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
   display: block;
   color: var(--text-color, var(--text, #333));
   text-decoration: none;
@@ -11217,7 +11268,9 @@ body.zappy-focused-page .zappy-announcement-bar {
     top: 100%;
     right: 0;
     min-width: 200px;
+    max-width: min(280px, calc(100vw - 32px));
     max-height: calc(100vh - 150px) !important;
+    overflow-x: hidden !important;
     overflow-y: auto !important;
     background: var(--bg-light, #fff) !important;
     border-radius: 8px;
@@ -11253,6 +11306,9 @@ body.zappy-focused-page .zappy-announcement-bar {
     color: var(--text-dark, #1a1a1a);
     text-decoration: none;
     border-radius: 6px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
     transition: background-color 0.2s ease;
   }
   .zappy-products-dropdown .sub-menu a:hover {
@@ -15920,19 +15976,19 @@ main,
 /* ─────────────────────────────────────────────────────────────────────────────
    HOMEPAGE: FEATURED SECTIONS (PRODUCTS + CATEGORIES)
    These used to be styled by V1 base CSS; must live in V2 generateCss()
-   Background uses hero-divider-aware theme: var(--bg-light) (LIGHT)
+   Background uses hero-divider-aware theme: #0D0A08 (DARK)
    ───────────────────────────────────────────────────────────────────────────── */
 
 /* Featured Products Section (Home Page) */
 .featured-products-section {
   padding: 60px 24px !important;
-  background: var(--bg-light) !important;
+  background: #0D0A08 !important;
 }
 .featured-products-section .section-title {
   text-align: center !important;
   font-size: 2rem !important;
   margin-bottom: 40px !important;
-  color: var(--text-dark) !important;
+  color: var(--text-light) !important;
 }
 .featured-grid {
   max-width: 1440px !important;
@@ -15966,9 +16022,9 @@ main,
 .no-featured-products {
   text-align: center !important;
   padding: 40px 20px !important;
-  color: rgba(0,0,0,0.6) !important;
+  color: rgba(255,255,255,0.6) !important;
   font-size: 1rem !important;
-  background: var(--bg-light, #fff) !important;
+  background: rgba(255,255,255,0.05) !important;
   border-radius: 12px !important;
   margin: 0 auto !important;
   max-width: 600px !important;
@@ -15978,13 +16034,13 @@ main,
 /* Featured Categories Section (Home Page) */
 .featured-categories-section {
   padding: 60px 24px !important;
-  background: var(--bg-light) !important;
+  background: #0D0A08 !important;
 }
 .featured-categories-section .section-title {
   text-align: center !important;
   font-size: 2rem !important;
   margin-bottom: 40px !important;
-  color: var(--text-dark) !important;
+  color: var(--text-light) !important;
 }
 .category-blocks {
   display: grid !important;
@@ -16051,7 +16107,7 @@ main,
 .loading-categories {
   text-align: center !important;
   padding: 40px 20px !important;
-  color: rgba(0,0,0,0.6) !important;
+  color: rgba(255,255,255,0.6) !important;
   font-size: 1rem !important;
 }
 
@@ -16464,18 +16520,6 @@ main,
 }
 
 /* ==END ZAPPY V2 E-COMMERCE THEME CSS== */
-
-.site-footer, .site-footer p, .site-footer span, .site-footer li, .site-footer h3, .site-footer h4, .site-footer .footer-tagline, .site-footer .footer-story-text, .site-footer .footer-copyright, .site-footer .footer-heading {
-  color: var(--text-light) !important;
-}
-
-.site-footer a, .site-footer .footer-links a, .site-footer .footer-contact a, .site-footer .footer-legal a, .site-footer .footer-nav a {
-  color: #E8DCC8 !important;
-}
-
-.site-footer a:hover {
-  color: var(--accent) !important;
-}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
