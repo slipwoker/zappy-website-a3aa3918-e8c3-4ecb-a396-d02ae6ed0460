@@ -223,6 +223,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="החשבון שלי">
     <meta name="twitter:description" content="החשבון שלי">
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"LocalBusiness","@id":"https://wwwhonolulu.co.il#organization","name":"תכשיטים ונוי ים ויער Honolulu","url":"https://wwwhonolulu.co.il","description":"A jewelry and decorative accessories brand called 'תכשיטים ונוי ים ויער' (Jewelry and Ornaments of Sea and Forest), based in Honolulu. The brand draws deep inspiration from nature — specifically the ocean and forest — blending the lush tropical vibes of Hawaii with organic, earthy aesthetics. The brand likely features handcrafted or artisan pieces that evoke natural textures, colors, and motifs from both marine and woodland environments.","address":{"@type":"PostalAddress","streetAddress":"בת ים, 5954619, ישראל"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","email":"lulu1234@bezeqint.net","telephone":"0504343871"}]},{"@type":"WebSite","@id":"https://wwwhonolulu.co.il#website","url":"https://wwwhonolulu.co.il","name":"תכשיטים ונוי ים ויער Honolulu","publisher":{"@id":"https://wwwhonolulu.co.il#organization"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://wwwhonolulu.co.il"},{"@type":"ListItem","position":2,"name":"Account","item":"https://wwwhonolulu.co.il/account"}]}]}</script>
     <meta property="og:type" content="website">
   <meta property="og:locale" content="he_IL">
   
@@ -754,11 +755,17 @@
     </style>
 
     <style id="zappy-widget-visibility">
-      #mic-access-tool-general-button, .mic-access-tool-general-button,
-      #mic-init-access-tool .mic-access-tool-general-button, #mic-init-access-tool #mic-access-tool-general-button,
-      ._access-icon, #mic-access-tool-box, .mic-access-tool-box,
-      #mic-init-access-tool #mic-access-tool-box, div[id*="mic-access-tool-box"], ._access-menu {
-        display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important;
+      @media (max-width: 768px) { .whatsapp-float { display: flex !important; } }
+      @media (min-width: 769px) { .whatsapp-float { display: flex !important; } }
+      @media (max-width: 768px) {
+        #mic-access-tool-general-button, .mic-access-tool-general-button,
+        #mic-init-access-tool .mic-access-tool-general-button, #mic-init-access-tool #mic-access-tool-general-button,
+        ._access-icon { display: flex !important; visibility: visible !important; opacity: 1 !important; pointer-events: auto !important; }
+      }
+      @media (min-width: 769px) {
+        #mic-access-tool-general-button, .mic-access-tool-general-button,
+        #mic-init-access-tool .mic-access-tool-general-button, #mic-init-access-tool #mic-access-tool-general-button,
+        ._access-icon { display: flex !important; visibility: visible !important; opacity: 1 !important; pointer-events: auto !important; }
       }
     </style>
 </head>
@@ -768,9 +775,7 @@
     window.ZAPPY_WEBSITE_ID = "a3aa3918-e8c3-4ecb-a396-d02ae6ed0460";
     // Preview pages are served by the Zappy server itself (localhost in dev), so use that base.
     // Deployed sites are static and must call the public Zappy API (never localhost).
-    window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview'))
-      ? "https://api.zappy5.com"
-      : "https://api.zappy5.com";
+    window.ZAPPY_API_BASE = "https://api.zappy5.com";
   </script>
   
     <div class="mobile-search-panel" id="mobile-search-panel">
@@ -942,7 +947,7 @@
           <div class="address-modal">
             <div class="address-modal-header">
               <h3 id="address-modal-title">הוסף כתובת</h3>
-              <button class="address-modal-close" id="address-modal-close">&amp;times;</button>
+              <button class="address-modal-close" id="address-modal-close">×</button>
             </div>
             <div class="address-modal-body">
               <input type="hidden" id="address-edit-id">
