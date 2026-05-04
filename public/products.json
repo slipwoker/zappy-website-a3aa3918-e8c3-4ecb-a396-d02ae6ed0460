@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T14:22:33.341Z",
+  "generated_at": "2026-05-04T14:33:33.860Z",
   "base_url": "https://wwwhonolulu.co.il",
   "currency": "ILS",
   "count": 3,
@@ -32,7 +32,7 @@
     },
     {
       "id": "4fb1ae51-b3a7-42c0-b40f-7c6c39fb4aee",
-      "slug": "mgsh-lgvnh-baieq6",
+      "slug": "mgsh-lgvnh-adl96c",
       "name": "מגש לגונה",
       "name_translations": {},
       "description": "<p>מגש עץ - לגונה להנחת מבשם, או נר וכו'</p><p>בעבודת יד יחודית עם אפוקסי ואבני נחל וטחב</p><p>בגווני כחול תכלת ירוק</p><p>מלאי מוגבל</p><p>לא לשים בשמש ובחום</p><p>תתכן סטייה קלה בגוון התמונה</p><p>הנר בתמונה להמחשה בלבד</p>",
@@ -48,9 +48,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://wwwhonolulu.co.il/product/mgsh-lgvnh-baieq6",
+      "url": "https://wwwhonolulu.co.il/product/mgsh-lgvnh-adl96c",
       "categories": [],
-      "updated_at": "2026-04-30T14:38:44.647Z"
+      "updated_at": "2026-05-04T14:33:02.227Z"
     },
     {
       "id": "a9fd0fb1-346e-44e5-bdc0-98b3dd13f416",
