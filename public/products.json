@@ -1,0 +1,84 @@
+{
+  "@context": "https://schema.org",
+  "generated_at": "2026-05-04T14:21:04.376Z",
+  "base_url": "https://wwwhonolulu.co.il",
+  "currency": "ILS",
+  "count": 3,
+  "products": [
+    {
+      "id": "1e34532c-3af4-4889-b1a3-24809e7d1bb6",
+      "slug": "mgsh-btsyvr-yd-yt10mc",
+      "name": "מגש בציור יד",
+      "name_translations": {},
+      "description": "<p>מגש עץ בציור יד אקרילי ואפוקסי</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 350,
+      "base_price": 320,
+      "sale_price": 350,
+      "currency": "ILS",
+      "images": [
+        "https://wwwhonolulu.co.il/assets/product-1777812124841-h7sssi.webp",
+        "https://wwwhonolulu.co.il/assets/product-1777812131106-19phi4.webp",
+        "https://wwwhonolulu.co.il/assets/product-1777812137716-l63g6b.webp",
+        "https://wwwhonolulu.co.il/assets/product-1777812144633-s0cmso.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://wwwhonolulu.co.il/product/mgsh-btsyvr-yd-yt10mc",
+      "categories": [],
+      "updated_at": "2026-05-03T12:42:59.908Z"
+    },
+    {
+      "id": "4fb1ae51-b3a7-42c0-b40f-7c6c39fb4aee",
+      "slug": "mgsh-lgvnh-baieq6",
+      "name": "מגש לגונה",
+      "name_translations": {},
+      "description": "<p>מגש עץ - לגונה להנחת מבשם, או נר וכו'</p><p>בעבודת יד יחודית עם אפוקסי ואבני נחל וטחב</p><p>בגווני כחול תכלת ירוק</p><p>מלאי מוגבל</p><p>לא לשים בשמש ובחום</p><p>תתכן סטייה קלה בגוון התמונה</p><p>הנר בתמונה להמחשה בלבד</p>",
+      "short_description": "מגש לגונה",
+      "sku": null,
+      "brand": null,
+      "price": 280,
+      "base_price": 250,
+      "sale_price": 280,
+      "currency": "ILS",
+      "images": [
+        "https://wwwhonolulu.co.il/assets/product-1777550438314-p8p449.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://wwwhonolulu.co.il/product/mgsh-lgvnh-baieq6",
+      "categories": [],
+      "updated_at": "2026-04-30T14:38:44.647Z"
+    },
+    {
+      "id": "a9fd0fb1-346e-44e5-bdc0-98b3dd13f416",
+      "slug": "mtlh-kyr-brvvz-lmptchvt-mgbt-mtbch-babvdt-yd-ychvdyt-copy-ytc62r",
+      "name": "מתלה קיר- ברווז למפתחות, מגבת מטבח בעבודת יד יחודית (Copy)",
+      "name_translations": {},
+      "description": "<p>מגש עץ מרהיב- ברווז לתליית מפתחות, מגבת מטבח, כפות מעץ</p><p>צריבה על עץ , אקרילי וציפוי לכה</p><p>בעבודת יד יחודית</p><p>מלאי מוגבל</p><p>מידות המגש</p><p><br></p><p>לא לשים בשמש , בחום</p><p>תתכן סטייה קלה בגוון התמונה</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": "מסדרת Honolulu",
+      "price": 300,
+      "base_price": 280,
+      "sale_price": 300,
+      "currency": "ILS",
+      "images": [
+        "https://wwwhonolulu.co.il/assets/product-1777465984937-2u1iyh.webp",
+        "https://wwwhonolulu.co.il/assets/product-1777466039534-ge581r.webp",
+        "https://wwwhonolulu.co.il/assets/product-1777466046077-5f08sjp.webp",
+        "https://wwwhonolulu.co.il/assets/product-1777466053074-brc9rn.webp",
+        "https://wwwhonolulu.co.il/assets/product-1777466059513-xbyqck.webp",
+        "https://wwwhonolulu.co.il/assets/product-1777466065683-a3i9xr.webp",
+        "https://wwwhonolulu.co.il/assets/product-1777466072414-yhbxo9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://wwwhonolulu.co.il/product/mtlh-kyr-brvvz-lmptchvt-mgbt-mtbch-babvdt-yd-ychvdyt-copy-ytc62r",
+      "categories": [],
+      "updated_at": "2026-04-30T14:39:48.447Z"
+    }
+  ]
+}

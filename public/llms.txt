@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# תכשיטים ונוי ים ויער Honolulu — Generative Engine Optimization Map
+
+> A jewelry and decorative accessories brand called 'תכשיטים ונוי ים ויער' (Jewelry and Ornaments of Sea and Forest), based in Honolulu. The brand draws deep inspiration from nature — specifically the ocean and forest — blending the lush tropical vibes of Hawaii with organic, earthy aesthetics. The brand likely features handcrafted or artisan pieces that evoke natural textures, colors, and motifs from both marine and woodland environments.
 
 ---
 
@@ -68,12 +70,53 @@ Information about WCAG compliance and accessibility features.
 
 ---
 
-# Business Context (for LLM understanding)
+## Products
 
-## About Business
+**Total active products: 3**
+
+### מגש בציור יד
+https://wwwhonolulu.co.il/product/mgsh-btsyvr-yd-yt10mc
+- Price: 350.00 ILS
+- Availability: In stock
+- Description: מגש עץ בציור יד אקרילי ואפוקסי
+- Image: https://wwwhonolulu.co.il/assets/product-1777812124841-h7sssi.webp
+
+### מגש לגונה
+https://wwwhonolulu.co.il/product/mgsh-lgvnh-baieq6
+- Price: 280.00 ILS
+- Availability: In stock
+- Description: מגש לגונה
+- Image: https://wwwhonolulu.co.il/assets/product-1777550438314-p8p449.webp
+
+### מתלה קיר- ברווז למפתחות, מגבת מטבח בעבודת יד יחודית (Copy)
+https://wwwhonolulu.co.il/product/mtlh-kyr-brvvz-lmptchvt-mgbt-mtbch-babvdt-yd-ychvdyt-copy-ytc62r
+- Price: 300.00 ILS
+- Availability: In stock
+- Brand: מסדרת Honolulu
+- Description: מגש עץ מרהיב- ברווז לתליית מפתחות, מגבת מטבח, כפות מעץ צריבה על עץ , אקרילי וציפוי לכה בעבודת יד יחודית מלאי מוגבל מידות המגש לא לשים בשמש , בחום תתכן סטייה קלה בגוון התמונה
+- Image: https://wwwhonolulu.co.il/assets/product-1777465984937-2u1iyh.webp
+
 ---
 
-# Additional Resources
+# Business Context (for LLM understanding)
 
-- **Sitemap**: https://wwwhonolulu.co.il/sitemap.xml
-- **Robots.txt**: https://wwwhonolulu.co.il/robots.txt
+## About תכשיטים ונוי ים ויער Honolulu
+A jewelry and decorative accessories brand called 'תכשיטים ונוי ים ויער' (Jewelry and Ornaments of Sea and Forest), based in Honolulu. The brand draws deep inspiration from nature — specifically the ocean and forest — blending the lush tropical vibes of Hawaii with organic, earthy aesthetics. The brand likely features handcrafted or artisan pieces that evoke natural textures, colors, and motifs from both marine and woodland environments.
+
+## Target Audience
+- אספני תכשיטי יוקרה
+- צרכנים ידידותיים לסביבה
+- נשים מתקדמות באופנה
+
+## Industry
+תכשיטים ואופנה
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://wwwhonolulu.co.il/sitemap.xml
+- Robots: https://wwwhonolulu.co.il/robots.txt
+- Flattened page text (for LLMs): https://wwwhonolulu.co.il/llms-full.txt
+- Products (JSON): https://wwwhonolulu.co.il/products.json
+- Products (Google Merchant RSS): https://wwwhonolulu.co.il/product-feed.xml
