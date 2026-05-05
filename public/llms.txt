@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://wwwhonolulu.co.il
+https://honolulu.co.il
 תכשיטים בהשראת הטבע ים ויער — קולקציות ייחודיות המשלבות את רוח האוקיינוס עם יופי היער הטרופי. תכשיטי יוקרה ידידותיים לסביבה שיגרמו לך להרגיש את הטבע על העור.
 
 ### אומנות
-https://wwwhonolulu.co.il/craftsmanship
+https://honolulu.co.il/craftsmanship
 כל תכשיט הוא סיפור של מיומנות ואהבה לטבע. גלי את תהליך היצירה הידני שמאחורי תכשיטים אורגניים לאישה, שמשלב מרקמי ים ויער לכדי יצירת אמנות עוטפת.
 
 ### אודות
-https://wwwhonolulu.co.il/about
+https://honolulu.co.il/about
 מה קורה כשאמנית מתאהבת בגלי האוקיינוס ובצל היערות? נולד מותג של תכשיטים מיוחדים לאספנים. גלי את הפילוסופיה, ההשראה ואת הנשמה שמאחורי כל יצירה מהוואי.
 
 ### צור קשר
-https://wwwhonolulu.co.il/contact
+https://honolulu.co.il/contact
 רוצה תכשיט בהשראת הטבע ים ויער שנוצר במיוחד עבורך? צרי קשר עוד היום לייעוץ אישי, הזמנות מיוחדות ושיתופי פעולה — כי כל אישה ראויה לתכשיט שמספר את סיפורה.
 
 ### Products
-https://wwwhonolulu.co.il/products
+https://honolulu.co.il/products
 המוצרים שלנו - תכשיטים ונוי ים ויער Honolulu
 
 ### Cart
-https://wwwhonolulu.co.il/cart
+https://honolulu.co.il/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://wwwhonolulu.co.il/checkout
+https://honolulu.co.il/checkout
 תשלום
 
 ### Login
-https://wwwhonolulu.co.il/login
+https://honolulu.co.il/login
 התחברות לקוחות
 
 ### Account
-https://wwwhonolulu.co.il/account
+https://honolulu.co.il/account
 החשבון שלי
 
 ### Order Success
-https://wwwhonolulu.co.il/order-success
+https://honolulu.co.il/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://wwwhonolulu.co.il/product/:slug
+https://honolulu.co.il/product/:slug
 פרטי המוצר - תכשיטים ונוי ים ויער Honolulu
 
 ### Category
-https://wwwhonolulu.co.il/category/:slug
+https://honolulu.co.il/category/:slug
 מוצרים - תכשיטים ונוי ים ויער Honolulu
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://wwwhonolulu.co.il/privacy
+https://honolulu.co.il/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://wwwhonolulu.co.il/terms
+https://honolulu.co.il/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://wwwhonolulu.co.il/accessibility
+https://honolulu.co.il/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -75,26 +75,26 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 3**
 
 ### מגש בציור יד
-https://wwwhonolulu.co.il/product/mgsh-btsyvr-yd-yt10mc
+https://honolulu.co.il/product/mgsh-btsyvr-yd-yt10mc
 - Price: 350.00 ILS
 - Availability: In stock
 - Description: מגש עץ בציור יד אקרילי ואפוקסי
-- Image: https://wwwhonolulu.co.il/assets/product-1777812124841-h7sssi.webp
+- Image: https://honolulu.co.il/assets/product-1777812124841-h7sssi.webp
 
 ### מגש לגונה
-https://wwwhonolulu.co.il/product/mgsh-lgvnh-adl96c
+https://honolulu.co.il/product/mgsh-lgvnh-adl96c
 - Price: 280.00 ILS
 - Availability: In stock
 - Description: מגש לגונה
-- Image: https://wwwhonolulu.co.il/assets/product-1777550438314-p8p449.webp
+- Image: https://honolulu.co.il/assets/product-1777550438314-p8p449.webp
 
 ### מתלה קיר- ברווז למפתחות, מגבת מטבח בעבודת יד יחודית (Copy)
-https://wwwhonolulu.co.il/product/mtlh-kyr-brvvz-lmptchvt-mgbt-mtbch-babvdt-yd-ychvdyt-copy-js231p
+https://honolulu.co.il/product/mtlh-kyr-brvvz-lmptchvt-mgbt-mtbch-babvdt-yd-ychvdyt-copy-js231p
 - Price: 300.00 ILS
 - Availability: In stock
 - Brand: מסדרת Honolulu
 - Description: מגש עץ מרהיב- ברווז לתליית מפתחות, מגבת מטבח, כפות מעץ צריבה על עץ , אקרילי וציפוי לכה בעבודת יד יחודית מלאי מוגבל מידות המגש לא לשים בשמש , בחום תתכן סטייה קלה בגוון התמונה
-- Image: https://wwwhonolulu.co.il/assets/product-1777465984937-2u1iyh.webp
+- Image: https://honolulu.co.il/assets/product-1777465984937-2u1iyh.webp
 
 ---
 
@@ -115,8 +115,8 @@ A jewelry and decorative accessories brand called 'תכשיטים ונוי ים 
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://wwwhonolulu.co.il/sitemap.xml
-- Robots: https://wwwhonolulu.co.il/robots.txt
-- Flattened page text (for LLMs): https://wwwhonolulu.co.il/llms-full.txt
-- Products (JSON): https://wwwhonolulu.co.il/products.json
-- Products (Google Merchant RSS): https://wwwhonolulu.co.il/product-feed.xml
+- Sitemap (XML): https://honolulu.co.il/sitemap.xml
+- Robots: https://honolulu.co.il/robots.txt
+- Flattened page text (for LLMs): https://honolulu.co.il/llms-full.txt
+- Products (JSON): https://honolulu.co.il/products.json
+- Products (Google Merchant RSS): https://honolulu.co.il/product-feed.xml

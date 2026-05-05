@@ -1,109 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://wwwhonolulu.co.il</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://honolulu.co.il</loc>
+    <lastmod>2026-05-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.co.il/craftsmanship</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://honolulu.co.il/craftsmanship</loc>
+    <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.co.il/about</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://honolulu.co.il/about</loc>
+    <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.co.il/contact</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://honolulu.co.il/contact</loc>
+    <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.co.il/products</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://honolulu.co.il/products</loc>
+    <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.co.il/cart</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://honolulu.co.il/cart</loc>
+    <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.co.il/checkout</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://honolulu.co.il/checkout</loc>
+    <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.co.il/login</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://honolulu.co.il/login</loc>
+    <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.co.il/account</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://honolulu.co.il/account</loc>
+    <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.co.il/order-success</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://honolulu.co.il/order-success</loc>
+    <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.co.il/product/:slug</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://honolulu.co.il/product/:slug</loc>
+    <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.co.il/category/:slug</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://honolulu.co.il/category/:slug</loc>
+    <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.co.il/privacy</loc>
-    <lastmod>2026-05-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wwwhonolulu.co.il/terms</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://honolulu.co.il/privacy</loc>
+    <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.co.il/accessibility</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://honolulu.co.il/terms</loc>
+    <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.co.il/product/mgsh-btsyvr-yd-yt10mc</loc>
+    <loc>https://honolulu.co.il/accessibility</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://honolulu.co.il/product/mgsh-btsyvr-yd-yt10mc</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.co.il/product/mgsh-lgvnh-adl96c</loc>
+    <loc>https://honolulu.co.il/product/mgsh-lgvnh-adl96c</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwhonolulu.co.il/product/mtlh-kyr-brvvz-lmptchvt-mgbt-mtbch-babvdt-yd-ychvdyt-copy-js231p</loc>
+    <loc>https://honolulu.co.il/product/mtlh-kyr-brvvz-lmptchvt-mgbt-mtbch-babvdt-yd-ychvdyt-copy-js231p</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>

@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://wwwhonolulu.co.il/sitemap.xml
+Sitemap: https://honolulu.co.il/sitemap.xml
