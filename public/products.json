@@ -1,10 +1,37 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-03T22:46:38.557Z",
+  "generated_at": "2026-06-03T22:52:28.933Z",
   "base_url": "https://honolulu.co.il",
   "currency": "ILS",
-  "count": 4,
+  "count": 5,
   "products": [
+    {
+      "id": "cc6da7a4-1efd-46d2-8fd4-79f32b45ed64",
+      "slug": "mgsh-am-pmvt-lnr-kvkb-vlbbvt-hshrah-mbtvn-pvlymry-ashvy-babvdt-yd-ychvdyt-udg16l",
+      "name": "מגש עם פמוט לנר כוכב ולבבות השראה מבטון פולימרי עשוי בעבודת יד יחודית",
+      "name_translations": {},
+      "description": "<p>מגש מבטון פולימרי- עם כוכב ים ופמוט לנר</p><p>&nbsp;ו- 3 לבבות עם מילים מחזקות</p><p>לשים על השידה לתכשיטים, למפיץ ריח, מפתחות ועוד...</p><p>עשוי בעדודת יד יחודית</p><p>נא ליצור קשר בוואסאפ יש קישור</p><p>כל יצירה שונה מקודמתה</p><p>מלאי מוגבל</p><p>תיתכן סטייה קלה בגוון התמונה</p>",
+      "short_description": "מגש מבטון פולימרי- עם פמוט לנר כוכב ים\n ו- 3 לבבות עם מילים מחזקות\nלשים על השידה לתכשיטים, למפיץ ריח, מפתחות ועוד...\nעשוי בעדודת יד יחודית\nנא ליצור קשר בוואסאפ יש קישור\nכל יצירה שונה מקודמתה\nמלאי מוגבל\nתיתכן סטייה קלה בגוון התמונה",
+      "sku": null,
+      "brand": null,
+      "price": 160,
+      "base_price": 160,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://honolulu.co.il/assets/product-1780526976307-18z1gt.webp",
+        "https://honolulu.co.il/assets/product-1780526986855-repc4g.webp",
+        "https://honolulu.co.il/assets/product-1780526998511-b8lwyj.webp",
+        "https://honolulu.co.il/assets/product-1780527076981-s1ivnm.webp",
+        "https://honolulu.co.il/assets/product-1780527088511-e0dxfj.webp",
+        "https://honolulu.co.il/assets/product-1780527098914-dyi97.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://honolulu.co.il/product/mgsh-am-pmvt-lnr-kvkb-vlbbvt-hshrah-mbtvn-pvlymry-ashvy-babvdt-yd-ychvdyt-udg16l",
+      "categories": [],
+      "updated_at": "2026-06-03T22:52:02.191Z"
+    },
     {
       "id": "3eb4ee3b-e022-4186-9606-4aaa18c0e88b",
       "slug": "mgsh-lmtnh-am-dvby-kvkb-ym-vmylym-mchzkvt-mbtvn-pvlymry-babvdt-yd-ychvdyt-bfvyg1",
