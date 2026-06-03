@@ -5324,7 +5324,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 ## Product Catalog
 
 ### מגש עם פמוט לנר כוכב ולבבות השראה מבטון פולימרי עשוי בעבודת יד יחודית
-URL: https://honolulu.co.il/product/mgsh-am-pmvt-lnr-kvkb-vlbbvt-hshrah-mbtvn-pvlymry-ashvy-babvdt-yd-ychvdyt-udg16l
+URL: https://honolulu.co.il/product/mgsh-am-pmvt-lnr-kvkb-vlbbvt-hshrah-mbtvn-pvlymry-ashvy-babvdt-yd-ychvdyt-z551bt
 Price: 160.00 ILS
 Availability: In stock
 

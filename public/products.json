@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-03T22:52:34.251Z",
+  "generated_at": "2026-06-03T22:55:30.100Z",
   "base_url": "https://honolulu.co.il",
   "currency": "ILS",
   "count": 5,
   "products": [
     {
       "id": "cc6da7a4-1efd-46d2-8fd4-79f32b45ed64",
-      "slug": "mgsh-am-pmvt-lnr-kvkb-vlbbvt-hshrah-mbtvn-pvlymry-ashvy-babvdt-yd-ychvdyt-udg16l",
+      "slug": "mgsh-am-pmvt-lnr-kvkb-vlbbvt-hshrah-mbtvn-pvlymry-ashvy-babvdt-yd-ychvdyt-z551bt",
       "name": "מגש עם פמוט לנר כוכב ולבבות השראה מבטון פולימרי עשוי בעבודת יד יחודית",
       "name_translations": {},
       "description": "<p>מגש מבטון פולימרי- עם כוכב ים ופמוט לנר</p><p>&nbsp;ו- 3 לבבות עם מילים מחזקות</p><p>לשים על השידה לתכשיטים, למפיץ ריח, מפתחות ועוד...</p><p>עשוי בעדודת יד יחודית</p><p>נא ליצור קשר בוואסאפ יש קישור</p><p>כל יצירה שונה מקודמתה</p><p>מלאי מוגבל</p><p>תיתכן סטייה קלה בגוון התמונה</p>",
@@ -19,18 +19,20 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://honolulu.co.il/assets/product-1780526976307-18z1gt.webp",
-        "https://honolulu.co.il/assets/product-1780526986855-repc4g.webp",
-        "https://honolulu.co.il/assets/product-1780526998511-b8lwyj.webp",
-        "https://honolulu.co.il/assets/product-1780527076981-s1ivnm.webp",
         "https://honolulu.co.il/assets/product-1780527088511-e0dxfj.webp",
-        "https://honolulu.co.il/assets/product-1780527098914-dyi97.webp"
+        "https://honolulu.co.il/assets/product-1780527098914-dyi97.webp",
+        "https://honolulu.co.il/assets/product-1780527230110-1ojy8.webp",
+        "https://honolulu.co.il/assets/product-1780527240630-otol1.webp",
+        "https://honolulu.co.il/assets/product-1780527251994-252lyo.webp",
+        "https://honolulu.co.il/assets/product-1780527262500-9jgoh.webp",
+        "https://honolulu.co.il/assets/product-1780527272760-9ydfla.webp",
+        "https://honolulu.co.il/assets/product-1780527283630-mt7lhm.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://honolulu.co.il/product/mgsh-am-pmvt-lnr-kvkb-vlbbvt-hshrah-mbtvn-pvlymry-ashvy-babvdt-yd-ychvdyt-udg16l",
+      "url": "https://honolulu.co.il/product/mgsh-am-pmvt-lnr-kvkb-vlbbvt-hshrah-mbtvn-pvlymry-ashvy-babvdt-yd-ychvdyt-z551bt",
       "categories": [],
-      "updated_at": "2026-06-03T22:52:02.191Z"
+      "updated_at": "2026-06-03T22:54:58.238Z"
     },
     {
       "id": "3eb4ee3b-e022-4186-9606-4aaa18c0e88b",
