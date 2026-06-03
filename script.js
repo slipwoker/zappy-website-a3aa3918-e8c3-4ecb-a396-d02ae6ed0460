@@ -1404,6 +1404,8 @@ window.onload = function() {
 ;
 
 ;
+
+;
 /* ==ZAPPY E-COMMERCE JS START== */
 // E-commerce functionality
 (function() {
@@ -1417,7 +1419,7 @@ window.onload = function() {
   } catch (e) {}
 
   const websiteId = window.ZAPPY_WEBSITE_ID;
-  const isCatalogMode = false; // true = catalog only (no cart), false = full e-commerce
+  const isCatalogMode = true; // true = catalog only (no cart), false = full e-commerce
   const isCoursesMode = false; // true when ecommerce_mode === 'courses'
 
   window.zappyTrackEcomAnalytics = function(eventType, metadata) {
@@ -3247,7 +3249,7 @@ function stripHtmlToText(html) {
       if (shortDesc.length > 260) shortDesc = shortDesc.slice(0, 257) + '...';
     }
     var href = buildStorefrontPath('/product/' + (product.slug || product.id));
-    var isCatalog = false;
+    var isCatalog = true;
     var cartArea = '';
     if (isCatalog) {
       cartArea = '<a href="' + href + '" class="zappy-qv-addcart zappy-qv-viewbtn">' + getEcomText('viewDetails', t.viewDetails || 'View product') + '</a>';
@@ -7528,7 +7530,7 @@ function stripHtmlToText(html) {
 
 ;
 // Catalog mode flag - set at generation time
-const isCatalogMode = false; // true = catalog only (no cart/checkout), false = full e-commerce
+const isCatalogMode = true; // true = catalog only (no cart/checkout), false = full e-commerce
 const zappyAdditionalDefaultLanguage = "he";
 
 // API base helper for additional JS
