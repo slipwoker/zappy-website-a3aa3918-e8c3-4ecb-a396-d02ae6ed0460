@@ -1,10 +1,41 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-03T13:23:17.372Z",
+  "generated_at": "2026-06-03T22:41:52.891Z",
   "base_url": "https://honolulu.co.il",
   "currency": "ILS",
-  "count": 3,
+  "count": 4,
   "products": [
+    {
+      "id": "3eb4ee3b-e022-4186-9606-4aaa18c0e88b",
+      "slug": "mgsh-lmtnh-am-dvby-kvkb-ym-vmylym-mchzkvt-mbtvn-pvlymry-babvdt-yd-ychvdyt-hltjtc",
+      "name": " מגש למתנה עם דובי כוכב ים ומילים מחזקות מבטון פולימרי בעבודת יד יחודית",
+      "name_translations": {},
+      "description": "<p>מגש מבטון פולימרי- עם דובי כוכב ים</p><p>&nbsp;ו- 3 לבבות עם מילים מחזקות</p><p>לשים על השידה לתכשיטים, למפיץ ריח, מפתחות ועוד...</p><p>מתאים לבת ליום הולדת לאמא, וכו'</p><p>עשוי בעבודת יד יחודית</p><p>נא ליצור קשר בוואסאפ יש קישור</p><p>כל יצירה שונה מקודמתה</p><p>מלאי מוגבל</p><p>תיתכן סטייה קלה בגוון התמונה</p>",
+      "short_description": "מגש מבטון פולימרי- עם דובי כוכב ים\n ו- 3 לבבות עם מילים מחזקות\nלשים על השידה לתכשיטים, למפיץ ריח, מפתחות ועוד...\nעשוי בעדודת יד יחודית\nנא ליצור קשר בוואסאפ יש קישור\nכל יצירה שונה מקודמתה\nמלאי מוגבל\nתיתכן סטייה קלה בגוון התמונה",
+      "sku": null,
+      "brand": null,
+      "price": 160,
+      "base_price": 160,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://honolulu.co.il/assets/product-1780526286666-j8ltu.webp",
+        "https://honolulu.co.il/assets/product-1780526298566-tix8j.webp",
+        "https://honolulu.co.il/assets/product-1780526309297-6vi8r.webp",
+        "https://honolulu.co.il/assets/product-1780526320910-44wfstp.webp",
+        "https://honolulu.co.il/assets/product-1780526331612-rd2pmv.webp",
+        "https://honolulu.co.il/assets/product-1780526342095-f6gy9o.webp",
+        "https://honolulu.co.il/assets/product-1780526352706-dc41qn.webp",
+        "https://honolulu.co.il/assets/product-1780526363421-zxnlpi.webp",
+        "https://honolulu.co.il/assets/product-1780526374285-0nnil.webp",
+        "https://honolulu.co.il/assets/product-1780526385472-tfhpm.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://honolulu.co.il/product/mgsh-lmtnh-am-dvby-kvkb-ym-vmylym-mchzkvt-mbtvn-pvlymry-babvdt-yd-ychvdyt-hltjtc",
+      "categories": [],
+      "updated_at": "2026-06-03T22:41:21.174Z"
+    },
     {
       "id": "1e34532c-3af4-4889-b1a3-24809e7d1bb6",
       "slug": "mgsh-btsyvr-yd-yt10mc",
