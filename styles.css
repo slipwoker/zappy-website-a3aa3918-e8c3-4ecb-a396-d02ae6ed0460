@@ -17931,6 +17931,10 @@ html[dir="ltr"] .solution-item.solution-reverse .solution-content { order: 1 !im
 html[dir="ltr"] .service-detail.service-reverse .service-detail-image { order: -1 !important; }
 html[dir="ltr"] .service-detail.service-reverse .service-detail-content { order: 1 !important; }
 
+/* ENSURE: nav-cta-btn-text-visible */
+.nav-cta-btn { position: relative !important; isolation: isolate !important; }
+.nav-cta-btn::before, .nav-cta-btn:before { z-index: -1 !important; }
+
 
 /* ZAPPY_MOBILE_NAV_ICON_ALIGNMENT_FIX */
 /* ZAPPY_MOBILE_NAV_ICON_ALIGNMENT_FIX_V3 */
