@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-03T22:55:30.100Z",
+  "generated_at": "2026-06-04T14:13:37.047Z",
   "base_url": "https://honolulu.co.il",
   "currency": "ILS",
-  "count": 5,
+  "count": 6,
   "products": [
+    {
+      "id": "582e3613-cab8-44a0-be43-259bbdb2db39",
+      "slug": "mgsh-lhdlkt-nrvt-shbt-am-2-pmvtym-nmvkym-lnrvt-mbtvn-pvlymry-babvdt-yd-ychvdyt-7jr6yb",
+      "name": "מגש להדלקת נרות שבת עם 2 פמוטים נמוכים לנרות מבטון פולימרי בעבודת יד יחודית",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 130,
+      "base_price": 130,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://honolulu.co.il/assets/product-1780582306239-0d5f4.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://honolulu.co.il/product/mgsh-lhdlkt-nrvt-shbt-am-2-pmvtym-nmvkym-lnrvt-mbtvn-pvlymry-babvdt-yd-ychvdyt-7jr6yb",
+      "categories": [],
+      "updated_at": "2026-06-04T14:13:03.916Z"
+    },
     {
       "id": "cc6da7a4-1efd-46d2-8fd4-79f32b45ed64",
       "slug": "mgsh-am-pmvt-lnr-kvkb-vlbbvt-hshrah-mbtvn-pvlymry-ashvy-babvdt-yd-ychvdyt-z551bt",
