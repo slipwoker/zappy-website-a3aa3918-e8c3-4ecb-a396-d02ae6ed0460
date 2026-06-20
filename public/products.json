@@ -1,10 +1,36 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-20T22:24:33.572Z",
+  "generated_at": "2026-06-20T22:32:29.549Z",
   "base_url": "https://honolulu.co.il",
   "currency": "ILS",
-  "count": 14,
+  "count": 15,
   "products": [
+    {
+      "id": "8f05be0a-5947-40ad-a483-428746cd17bb",
+      "slug": "mgsh-am-dvby-vmylym-matsymvt-mbtvn-pvlymry-babvdt-yd-ychvdyt-ybj0mj",
+      "name": "מגש עם דובי ומילים מעצימות מבטון פולימרי בעבודת יד יחודית",
+      "name_translations": {},
+      "description": "<p>מגש מתנה עם דובי ושלוש לבבות עם מילים מעצימות</p><p>עשוי מבטון פולימרי</p><p>בעבודת יד יחודית</p><p>ניתן להניח ליופי על השידה לשים מפיץ ריח, </p><p>או נר בבית נר, לשים תכשיט , משקפיים מפתחות ועוד</p><p>בגוון ב'ז וזהב</p><p>אורך המגש</p><p>מלאי מוגבל</p>",
+      "short_description": "מגש עם דובי ומילים מעצימות- מבטון פולימרי",
+      "sku": null,
+      "brand": null,
+      "price": 150,
+      "base_price": 130,
+      "sale_price": 150,
+      "currency": "ILS",
+      "images": [
+        "https://honolulu.co.il/assets/product-ai-fit-1781994526815-84m2ke.webp",
+        "https://honolulu.co.il/assets/product-1781994450141-mzzp8.webp",
+        "https://honolulu.co.il/assets/product-enhanced-1781994684828-wvtjae.webp",
+        "https://honolulu.co.il/assets/product-1781994472591-koc0v8.webp",
+        "https://honolulu.co.il/assets/product-1781994484164-6zj2dn.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://honolulu.co.il/product/mgsh-am-dvby-vmylym-matsymvt-mbtvn-pvlymry-babvdt-yd-ychvdyt-ybj0mj",
+      "categories": [],
+      "updated_at": "2026-06-20T22:31:57.403Z"
+    },
     {
       "id": "2276fb65-b6d5-4362-a6d1-ee22d33b758a",
       "slug": "shrshrt-gbrym-ym-znb-lvytn-babvdt-yd-ychvdyt-6jo8n0",
