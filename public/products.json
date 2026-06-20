@@ -1,10 +1,36 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-20T22:16:31.234Z",
+  "generated_at": "2026-06-20T22:23:12.797Z",
   "base_url": "https://honolulu.co.il",
   "currency": "ILS",
-  "count": 13,
+  "count": 14,
   "products": [
+    {
+      "id": "2276fb65-b6d5-4362-a6d1-ee22d33b758a",
+      "slug": "shrshrt-gbrym-ym-znb-lvytn-babvdt-yd-ychvdyt-6jo8n0",
+      "name": "שרשרת גברים-ים זנב לויתן בעבודת יד יחודית",
+      "name_translations": {},
+      "description": "<p>שרשרת גברים- ים זנב לויתן בעבודת יד יחודית</p><p>עשויה מחרוזי קריסטל , וזכוכית,&nbsp;</p><p>בגוונים תכלת, כחול ולבן</p><p>תליון כוכב ים , חרוזים, וסוגרים</p><p>עשויים מחומר -</p><p>מידות השרשרת-אורך כ- 52 סנטימטר</p><p>תיתכן סטייה קלה בגוון התמונה</p><p>לא להרטיב במים, מי ים , ובריכה, ובושם ישיר</p><p>לשאלול וקנייה&nbsp;</p><p>נא ליצור קשר בוואטאפס יש כפתור</p>",
+      "short_description": "שרשרת גברים- ים זנב לויתן בעבודת יד יחודית",
+      "sku": null,
+      "brand": null,
+      "price": 160,
+      "base_price": 190,
+      "sale_price": 160,
+      "currency": "ILS",
+      "images": [
+        "https://honolulu.co.il/assets/product-enhanced-1781993890705-i9vmgt.webp",
+        "https://honolulu.co.il/assets/product-enhanced-1781994128429-u3ugkm.webp",
+        "https://honolulu.co.il/assets/product-1781994037603-lagvh.webp",
+        "https://honolulu.co.il/assets/product-1781994048739-el5h5.webp",
+        "https://honolulu.co.il/assets/product-enhanced-1781994097753-sfccee.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://honolulu.co.il/product/shrshrt-gbrym-ym-znb-lvytn-babvdt-yd-ychvdyt-6jo8n0",
+      "categories": [],
+      "updated_at": "2026-06-20T22:22:40.403Z"
+    },
     {
       "id": "ebf810fb-7851-4472-9338-7e76a46e24ef",
       "slug": "shrshrt-gbrym-tvmy-kvkb-babvdt-yd-ychvdyt-7otzs8",
