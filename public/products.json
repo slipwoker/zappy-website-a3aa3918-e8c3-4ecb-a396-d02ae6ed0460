@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-20T22:23:12.797Z",
+  "generated_at": "2026-06-20T22:24:33.572Z",
   "base_url": "https://honolulu.co.il",
   "currency": "ILS",
   "count": 14,
@@ -84,7 +84,7 @@
     },
     {
       "id": "173dfe3d-a351-4221-b67e-252c03aeeb15",
-      "slug": "shrshrt-gbrym-lgvnh-znb-lvytn-babvdt-yd-ychvdyt-eqb3sd",
+      "slug": "shrshrt-gbrym-lgvnh-znb-lvytn-babvdt-yd-ychvdyt-9q0haa",
       "name": "שרשרת גברים-לגונה זנב לויתן בעבודת יד יחודית",
       "name_translations": {},
       "description": "",
@@ -96,7 +96,7 @@
       "sale_price": 220,
       "currency": "ILS",
       "images": [
-        "https://honolulu.co.il/assets/product-1781991896939-tc7zs.webp",
+        "https://honolulu.co.il/assets/product-enhanced-1781994231369-m6t6aj.webp",
         "https://honolulu.co.il/assets/product-1781991929086-xk1bnt.webp",
         "https://honolulu.co.il/assets/product-1781991941107-4eo3bg.webp",
         "https://honolulu.co.il/assets/product-1781991951962-tlum7.webp",
@@ -104,9 +104,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://honolulu.co.il/product/shrshrt-gbrym-lgvnh-znb-lvytn-babvdt-yd-ychvdyt-eqb3sd",
+      "url": "https://honolulu.co.il/product/shrshrt-gbrym-lgvnh-znb-lvytn-babvdt-yd-ychvdyt-9q0haa",
       "categories": [],
-      "updated_at": "2026-06-20T22:15:59.211Z"
+      "updated_at": "2026-06-20T22:24:01.795Z"
     },
     {
       "id": "a048ffae-a18c-4bff-b509-e9dc2a76eb60",
