@@ -1,10 +1,36 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-20T21:44:13.537Z",
+  "generated_at": "2026-06-20T21:47:31.650Z",
   "base_url": "https://honolulu.co.il",
   "currency": "ILS",
-  "count": 10,
+  "count": 11,
   "products": [
+    {
+      "id": "173dfe3d-a351-4221-b67e-252c03aeeb15",
+      "slug": "shrshrt-gbrym-lgvnh-znb-lvytn-babvdt-yd-ychvdyt-qq34b0",
+      "name": "שרשרת גברים-לגונה זנב לויתן בעבודת יד יחודית",
+      "name_translations": {},
+      "description": "",
+      "short_description": "שרשרת גברים- לגונה זנב לויתן עשויה בעבודת יד יחודית\nעשויה מחרוזי קריסטל , וזכוכית, \n\nתליון כוכב ים , חרוזים, וסוגרים\n\nעשויים מחומר -\n\nמידות השרשרת-\n\nתיתכן סטייה קלה בגוון התמונה\n\nלא להרטיב במים, מי ים , ובריכה, ובושם ישיר\n\nלשאלול וקנייה \n\nנא ליצור קשר בוואטאפס יש כפתור",
+      "sku": null,
+      "brand": null,
+      "price": 220,
+      "base_price": 180,
+      "sale_price": 220,
+      "currency": "ILS",
+      "images": [
+        "https://honolulu.co.il/assets/product-1781991896939-tc7zs.webp",
+        "https://honolulu.co.il/assets/product-1781991929086-xk1bnt.webp",
+        "https://honolulu.co.il/assets/product-1781991941107-4eo3bg.webp",
+        "https://honolulu.co.il/assets/product-1781991951962-tlum7.webp",
+        "https://honolulu.co.il/assets/product-enhanced-1781992001902-wrko7m.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://honolulu.co.il/product/shrshrt-gbrym-lgvnh-znb-lvytn-babvdt-yd-ychvdyt-qq34b0",
+      "categories": [],
+      "updated_at": "2026-06-20T21:47:09.878Z"
+    },
     {
       "id": "a048ffae-a18c-4bff-b509-e9dc2a76eb60",
       "slug": "shrshrt-gbrym-tvmy-kvkb-nvtsts-babvdt-yd-ychvdyt-ajii7m",
