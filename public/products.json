@@ -1,10 +1,37 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-20T22:06:43.018Z",
+  "generated_at": "2026-06-20T22:15:15.715Z",
   "base_url": "https://honolulu.co.il",
   "currency": "ILS",
-  "count": 12,
+  "count": 13,
   "products": [
+    {
+      "id": "ebf810fb-7851-4472-9338-7e76a46e24ef",
+      "slug": "shrshrt-gbrym-tvmy-kvkb-babvdt-yd-ychvdyt-7otzs8",
+      "name": "שרשרת גברים טומי- כוכב בעבודת יד יחודית",
+      "name_translations": {},
+      "description": "<p>שרשרת גברים- טומי בעבודת יד יחודית</p><p>עשויה מחרוזי קריסטל , וזכוכית,&nbsp;</p><p>בגוון לבן, ירוק בקבוק, ואדום</p><p>תליון כוכב ים , חרוזים, וסוגרים</p><p>עשויים מחומר -</p><p>מידות השרשרת-אורך כ- 49.5 סנטימטר</p><p>תיתכן סטייה קלה בגוון התמונה</p><p>לא להרטיב במים, מי ים , ובריכה, ובושם ישיר</p><p>לשאלול וקנייה&nbsp;</p><p>נא ליצור קשר בוואטאפס יש כפתור</p>",
+      "short_description": "עשויה מחרוזי קריסטל , וזכוכית, \n\nתליון כוכב ים , חרוזים, וסוגרים\n\nעשויים מחומר -\n\nמידות השרשרת-\n\nתיתכן סטייה קלה בגוון התמונה\n\nלא להרטיב במים, מי ים , ובריכה, ובושם ישיר\n\nלשאלול וקנייה \n\nנא ליצור קשר בוואטאפס יש כפתור",
+      "sku": null,
+      "brand": null,
+      "price": 180,
+      "base_price": 220,
+      "sale_price": 180,
+      "currency": "ILS",
+      "images": [
+        "https://honolulu.co.il/assets/product-1781993286425-48c6jn.webp",
+        "https://honolulu.co.il/assets/product-1781993410995-md9aq5k.webp",
+        "https://honolulu.co.il/assets/product-enhanced-1781993488750-rjyhw.webp",
+        "https://honolulu.co.il/assets/product-1781993433255-ja1buw.webp",
+        "https://honolulu.co.il/assets/product-1781993445288-uiytt.webp",
+        "https://honolulu.co.il/assets/product-enhanced-1781993544986-1a8xvb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://honolulu.co.il/product/shrshrt-gbrym-tvmy-kvkb-babvdt-yd-ychvdyt-7otzs8",
+      "categories": [],
+      "updated_at": "2026-06-20T22:14:50.948Z"
+    },
     {
       "id": "4079ea78-2b05-4d64-9ba7-4846245b2491",
       "slug": "shrshrt-gbrym-myamy-tsdp-ashvyh-babvdt-yd-ychvdyt-jllf7d",
