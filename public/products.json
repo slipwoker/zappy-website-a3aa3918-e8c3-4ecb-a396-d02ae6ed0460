@@ -1,10 +1,36 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-20T21:08:26.083Z",
+  "generated_at": "2026-06-20T21:20:33.811Z",
   "base_url": "https://honolulu.co.il",
   "currency": "ILS",
-  "count": 7,
+  "count": 8,
   "products": [
+    {
+      "id": "a3103d57-b78c-4318-a820-b86189fa1910",
+      "slug": "shrshrt-gbrym-tvrkyzym-znb-lvytn-babvdt-yd-ychvdyt-22v2my",
+      "name": "שרשרת גברים- טורקיזים זנב לויתן בעבודת יד יחודית",
+      "name_translations": {},
+      "description": "<p>שרשרת גברים טורקיזים- זנב לויתן</p><p>בעבודת יד יחודית</p><p>עשויה מחרוזי טורקיזים</p><p>סוגרים חרוזים זנב לויתן עשויים</p><p>מ-</p><p>מלאי מוגבל</p><p>מידות השרשרת</p><p>תתכן סטייה קלה בגוון התמונות</p><p>לא להרטיב במים ,ים, בריכה, ובושם ישיר</p><p>לרכישה ושאלות נא לפנות בוואטאפס יש כפתור</p>",
+      "short_description": "שרשרת גברים- טורקיזים זנב לויתן בעבודת יד יחודית",
+      "sku": null,
+      "brand": null,
+      "price": 270,
+      "base_price": 240,
+      "sale_price": 270,
+      "currency": "ILS",
+      "images": [
+        "https://honolulu.co.il/assets/product-1781990150332-d0dtz.webp",
+        "https://honolulu.co.il/assets/product-1781990186194-wcx5kg.webp",
+        "https://honolulu.co.il/assets/product-1781990197516-09pd8a.webp",
+        "https://honolulu.co.il/assets/product-1781990208563-xkxur.webp",
+        "https://honolulu.co.il/assets/product-1781990219335-x5co9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://honolulu.co.il/product/shrshrt-gbrym-tvrkyzym-znb-lvytn-babvdt-yd-ychvdyt-22v2my",
+      "categories": [],
+      "updated_at": "2026-06-20T21:20:01.847Z"
+    },
     {
       "id": "fd662ab0-1c25-4840-9066-8817ca553549",
       "slug": "shrshrt-gbrym-tvmy-svsvn-ym-babvdt-yd-ychvdyt-585p0e",
