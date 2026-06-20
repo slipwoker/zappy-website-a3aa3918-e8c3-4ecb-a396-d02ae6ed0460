@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-20T21:47:33.474Z",
+  "generated_at": "2026-06-20T21:58:51.073Z",
   "base_url": "https://honolulu.co.il",
   "currency": "ILS",
-  "count": 11,
+  "count": 12,
   "products": [
+    {
+      "id": "4079ea78-2b05-4d64-9ba7-4846245b2491",
+      "slug": "shrshrt-gbrym-myamy-tsdp-ashvyh-babvdt-yd-ychvdyt-jllf7d",
+      "name": "שרשרת גברים -מיאמי צדף עשויה בעבודת יד יחודית",
+      "name_translations": {},
+      "description": "<p>שרשרת גברים- מיאמי צדף עשויה בעבודת יד יחודית</p><p>עשויה מחרוזי קריסטל , וזכוכית,&nbsp;</p><p>תליון צדף , חרוזים, וסוגרים</p><p>עשויים מחומר -</p><p>מידות השרשרת-אורך כ- 51 סנטימטר</p><p>תיתכן סטייה קלה בגוון התמונה</p><p>לא להרטיב במים, מי ים , ובריכה, ובושם ישיר</p><p>לשאלול וקנייה&nbsp;</p><p>נא ליצור קשר בוואטאפס יש כפתור</p>",
+      "short_description": "שרשרת גברים- מיאמי צדף עשויה בעבודת יד יחודית\nעשויה מחרוזי קריסטל , וזכוכית, \n\nתליון צדף , חרוזים, וסוגרים\n\nעשויים מחומר -\n\nמידות השרשרת-\n\nתיתכן סטייה קלה בגוון התמונה\n\nלא להרטיב במים, מי ים , ובריכה, ובושם ישיר\n\nלשאלול וקנייה \n\nנא ליצור קשר בוואטאפס יש כפתור",
+      "sku": null,
+      "brand": null,
+      "price": 220,
+      "base_price": 180,
+      "sale_price": 220,
+      "currency": "ILS",
+      "images": [
+        "https://honolulu.co.il/assets/product-enhanced-1781992409867-mj0agdzk.webp",
+        "https://honolulu.co.il/assets/product-1781992501702-u2rbnk.webp",
+        "https://honolulu.co.il/assets/product-enhanced-1781992631741-hjp39i.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://honolulu.co.il/product/shrshrt-gbrym-myamy-tsdp-ashvyh-babvdt-yd-ychvdyt-jllf7d",
+      "categories": [],
+      "updated_at": "2026-06-20T21:58:19.380Z"
+    },
     {
       "id": "173dfe3d-a351-4221-b67e-252c03aeeb15",
       "slug": "shrshrt-gbrym-lgvnh-znb-lvytn-babvdt-yd-ychvdyt-qq34b0",
