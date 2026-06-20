@@ -2,93 +2,99 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://honolulu.co.il</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://honolulu.co.il/craftsmanship</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://honolulu.co.il/about</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://honolulu.co.il/contact</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://honolulu.co.il/products</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://honolulu.co.il/cart</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://honolulu.co.il/checkout</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://honolulu.co.il/login</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://honolulu.co.il/account</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://honolulu.co.il/order-success</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://honolulu.co.il/product/:slug</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://honolulu.co.il/category/:slug</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://honolulu.co.il/privacy</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://honolulu.co.il/terms</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://honolulu.co.il/accessibility</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://honolulu.co.il/product/shrshrt-gbrym-tvmy-svsvn-ym-babvdt-yd-ychvdyt-585p0e</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://honolulu.co.il/product/mgsh-lhdlkt-nrvt-shbt-am-2-pmvtym-nmvkym-lnrvt-mbtvn-pvlymry-babvdt-yd-ychvdyt-7jr6yb</loc>

@@ -1,10 +1,36 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-18T23:48:32.315Z",
+  "generated_at": "2026-06-20T21:08:02.146Z",
   "base_url": "https://honolulu.co.il",
   "currency": "ILS",
-  "count": 6,
+  "count": 7,
   "products": [
+    {
+      "id": "fd662ab0-1c25-4840-9066-8817ca553549",
+      "slug": "shrshrt-gbrym-tvmy-svsvn-ym-babvdt-yd-ychvdyt-585p0e",
+      "name": "  שרשרת גברים-טומי סוסון ים בעבודת יד יחודית",
+      "name_translations": {},
+      "description": "<p>שרשרת גברים טומי- סוסון ים בעבודת יד יחודית</p><p>מלאי יוגבל</p><p>עשויה מחרוזי קריסטל , וזכוכית,&nbsp;</p><p>תליון סוסי ים, חרוזים, וסוגרים</p><p>עשויים מחומר -</p><p>מידות השרשרת-</p><p>תיתכן סטייה קלה בגוון התמונה</p><p>לא להרטיב במים, מי ים , ובריכה</p><p>לשאלול וקנייה&nbsp;</p><p>נא ליצור קשר בוואטאפס יש כפתור</p><p><br></p>",
+      "short_description": "שרשרת גברים טומי- סוסון ים בעבודת יד יחודית\nמלאי יוגבל\nעשויה מחרוזי קריסטל , וזכוכית, \nתליון סוסי ים, חרוזים, וסוגרים\nעשויים מחומר -\nמידות השרשרת-\nתיתכן סטייה קלה בגוון התמונה\nלא להרטיב במים, מי ים , ובריכה\nלשאלול וקנייה \nנא ליצור קשר בוואטאפס יש כפתור\n\n",
+      "sku": null,
+      "brand": null,
+      "price": 180,
+      "base_price": 220,
+      "sale_price": 180,
+      "currency": "ILS",
+      "images": [
+        "https://honolulu.co.il/assets/product-1781989244611-ysjlfe.webp",
+        "https://honolulu.co.il/assets/product-1781989296280-mher1p.webp",
+        "https://honolulu.co.il/assets/product-1781989307538-y289yn.webp",
+        "https://honolulu.co.il/assets/product-1781989323644-n4vvl.webp",
+        "https://honolulu.co.il/assets/product-1781989337325-nbodf.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://honolulu.co.il/product/shrshrt-gbrym-tvmy-svsvn-ym-babvdt-yd-ychvdyt-585p0e",
+      "categories": [],
+      "updated_at": "2026-06-20T21:07:38.698Z"
+    },
     {
       "id": "582e3613-cab8-44a0-be43-259bbdb2db39",
       "slug": "mgsh-lhdlkt-nrvt-shbt-am-2-pmvtym-nmvkym-lnrvt-mbtvn-pvlymry-babvdt-yd-ychvdyt-7jr6yb",
