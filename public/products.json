@@ -1,10 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-20T21:21:31.319Z",
+  "generated_at": "2026-06-20T21:26:13.462Z",
   "base_url": "https://honolulu.co.il",
   "currency": "ILS",
-  "count": 8,
+  "count": 9,
   "products": [
+    {
+      "id": "25f92ed3-243b-4055-8ed9-7b81a33be412",
+      "slug": "shrshrt-gbrym-prrv-kvkb-ym-babvdt-yd-ychvdyt-bv96nl",
+      "name": "שרשרת גברים- פררו כוכב ים בעבודת יד יחודית",
+      "name_translations": {},
+      "description": "<p>שרשרת גברים פררו -כוכב ים בעבודת יד יחודית</p><p>מלאי יוגבל</p><p>עשויה מחרוזי קריסטל , וזכוכית,&nbsp;</p><p>תליון כוכב ים , חרוזים, וסוגרים</p><p>עשויים מחומר -</p><p>מידות השרשרת-</p><p>תיתכן סטייה קלה בגוון התמונה</p><p>לא להרטיב במים, מי ים , ובריכה, ובושם ישיר</p><p>לשאלול וקנייה&nbsp;</p><p>נא ליצור קשר בוואטאפס יש כפתור</p><p><br></p>",
+      "short_description": "שרשרת גברים- פררו כוכב ים  בעבודת יד יחודית",
+      "sku": null,
+      "brand": null,
+      "price": 200,
+      "base_price": 180,
+      "sale_price": 200,
+      "currency": "ILS",
+      "images": [
+        "https://honolulu.co.il/assets/product-1781990535014-npcxj.webp",
+        "https://honolulu.co.il/assets/product-1781990574686-ck59bq.webp",
+        "https://honolulu.co.il/assets/product-1781990586533-xt8p3c.webp",
+        "https://honolulu.co.il/assets/product-1781990597801-apqg6.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://honolulu.co.il/product/shrshrt-gbrym-prrv-kvkb-ym-babvdt-yd-ychvdyt-bv96nl",
+      "categories": [],
+      "updated_at": "2026-06-20T21:26:01.335Z"
+    },
     {
       "id": "a3103d57-b78c-4318-a820-b86189fa1910",
       "slug": "shrshrt-gbrym-tvrkyzym-znb-lvytn-babvdt-yd-ychvdyt-22v2my",
